@@ -1,0 +1,817 @@
+product_code,product_name_short,es_diferenciado,product_space_cluster_name,reflections_index_z,fitness_index_z,rank_reflections,rank_fitness
+0101,Horses,Differentiated product,Agriculture,0.32773064057588347,0.03082375998433953,341,271
+0102,Bovine,Undifferentiated product,Agriculture,-0.5856896212671212,-0.6310419806162326,557,727
+0103,Swine,Undifferentiated product,Agriculture,0.6827486574645977,0.6237815792470641,233,129
+0104,Sheep,Undifferentiated product,Agriculture,-1.1872476562760848,-0.6426470121824945,705,748
+0105,Fowl,Undifferentiated product,Agriculture,-0.48111007795032257,-0.5593394997653193,534,633
+0201,Beef,Undifferentiated product,Agriculture,-0.3927330553318068,-0.551205626204703,518,617
+0202,Beef (frozen),Undifferentiated product,Agriculture,-1.2281152665445652,-0.5744796858826925,713,648
+0203,Pork,Undifferentiated product,Agriculture,0.7365691378751077,0.2066424685777448,221,223
+0204,Lamb,Undifferentiated product,Agriculture,-1.182919635138574,-0.5921793754728835,704,671
+0206,Edible offal,Undifferentiated product,Agriculture,-0.4255071124963278,-0.5037565088536058,526,563
+0207,Poultry,Undifferentiated product,Agriculture,-0.438799188745744,-0.46530423587711073,528,522
+0208,Other meat,Differentiated product,Agriculture,0.26091124397938253,-0.46345734003376726,355,517
+0210,Preserved meat,Undifferentiated product,Agriculture,-0.13882262749948848,-0.12203778813490036,453,340
+0301,Live Fish,Undifferentiated product,Agriculture,-0.8893888967150417,-0.6922483569979748,635,799
+0302,"Fish, excluding fillets",Undifferentiated product,Agriculture,-1.0717298260781618,-0.5897408241675929,674,667
+0303,"Frozen fish, excluding fillets",Undifferentiated product,Agriculture,-1.4764425439239846,-0.6849209070634619,760,791
+0304,Fish fillets,Undifferentiated product,Agriculture,-1.1948194214642138,-0.6066498536860337,711,694
+0305,Preserved fish,Undifferentiated product,Agriculture,-1.2843042441045276,-0.6819560296612576,730,788
+0306,Crustaceans,Undifferentiated product,Agriculture,-1.821624799851763,-0.6264281422160399,791,723
+0307,Molluscs,Undifferentiated product,Agriculture,-1.375493301415834,-0.6091550798608762,747,697
+0401,Milk,Undifferentiated product,Agriculture,-0.03211957498499701,-0.4546312835061976,431,511
+0402,"Milk, concentrated",Undifferentiated product,Agriculture,-0.6528269663720152,-0.5609415377247082,579,637
+0403,Fermented milk products,Undifferentiated product,Agriculture,-0.3268943684983599,-0.6264117106582818,502,722
+0404,Whey,Undifferentiated product,Agriculture,0.46247312702557936,-0.17928080710307265,300,367
+0405,Butter,Undifferentiated product,Agriculture,0.0076938968303748,-0.2174183534187553,423,377
+0406,Cheese,Undifferentiated product,Agriculture,0.02757379547361332,-0.43768550125169886,417,504
+0407,"Eggs, in shell",Undifferentiated product,Agriculture,-0.6047595999508125,-0.5858240095038519,564,664
+0409,Honey,Undifferentiated product,Agriculture,-0.9698362339333696,-0.5534220659847351,648,621
+0504,"Animal guts, except fish",Differentiated product,Agriculture,-0.8868545997651884,-0.572942305716746,634,646
+0511,Animal products n.e.c.,Differentiated product,Agriculture,-0.6983374282769701,-0.6034467944012436,589,687
+0601,Flower bulbs,Differentiated product,Agriculture,-0.8073308807148495,-0.29041452565352155,623,414
+0602,Other live plants,Differentiated product,Agriculture,-0.7512199799686279,-0.4355041081948897,600,503
+0603,Cut flowers,Differentiated product,Agriculture,-1.5104472034310712,-0.5847005069984496,764,661
+0604,Other parts of plants,Differentiated product,Agriculture,-0.9685392101058332,-0.5447617717509569,647,611
+0701,Potatoes,Undifferentiated product,Agriculture,-0.7618513636224584,-0.5753033271785054,604,650
+0702,Tomatoes,Undifferentiated product,Agriculture,-1.1541727741126275,-0.6218062700410858,697,717
+0703,"Onions, shallots, garlic",Undifferentiated product,Agriculture,-1.8702070819318508,-0.6214076104925401,796,716
+0704,"Cabbages, cauliflowers, broccoli",Undifferentiated product,Agriculture,-0.8272750134843826,-0.39189022226224624,625,468
+0705,Lettuce,Undifferentiated product,Agriculture,-0.4242402266545646,-0.12024439436037644,525,338
+0706,Carrots & turnips,Undifferentiated product,Agriculture,-0.6506075126653276,-0.49310641865708943,578,546
+0707,Cucumbers,Undifferentiated product,Agriculture,-0.6920616141353707,-0.3965336342446496,587,474
+0708,Legumes,Undifferentiated product,Agriculture,-1.8331397299603311,-0.6295948639215112,793,724
+0709,Other vegetables,Undifferentiated product,Agriculture,-1.0060257794711476,-0.539268930718412,659,602
+0710,Frozen vegetables,Undifferentiated product,Agriculture,-0.6915858502851533,-0.5195826214886192,586,569
+0712,"Vegetables, dried",Undifferentiated product,Agriculture,-1.2336994535438968,-0.5856517967858921,715,663
+0713,"Legumes, dried",Undifferentiated product,Agriculture,-1.96031144548566,-0.6509105858335902,801,759
+0714,Tubers,Undifferentiated product,Agriculture,-1.8831914860897847,-0.5587220968431048,797,631
+0801,Cashew nuts & coconuts,Undifferentiated product,Agriculture,-2.0692649514922743,-0.6786070018324758,805,784
+0802,Other nuts,Undifferentiated product,Agriculture,-1.6671023092684418,-0.6411920228725733,783,744
+0803,Bananas and plantains,Undifferentiated product,Agriculture,-1.6539479042055076,-0.6312185318266683,782,728
+0804,"Avocados, pineapples, mangos, etc.",Undifferentiated product,Agriculture,-1.5602751759089142,-0.6670998202782432,772,774
+0805,Citrus fruit,Undifferentiated product,Agriculture,-1.209518962795976,-0.5410418524699349,712,605
+0806,Grapes,Undifferentiated product,Agriculture,-1.0891416038766275,-0.502835147783286,679,561
+0807,Melons and papayas,Undifferentiated product,Agriculture,-1.3506795496489157,-0.6312496136309624,742,729
+0808,Apples & pears,Undifferentiated product,Agriculture,-0.5239046709669897,-0.5370737220354639,542,599
+0809,Peaches & cherries,Undifferentiated product,Agriculture,-0.9750653177292998,-0.557874115587546,649,628
+0810,Other fresh fruit,Undifferentiated product,Agriculture,-1.3298377965595336,-0.5999715120488107,739,680
+0811,"Fruits and nuts, frozen",Undifferentiated product,Agriculture,-0.5493600100369016,-0.5240202678581742,549,577
+0813,"Fruits, dried",Undifferentiated product,Agriculture,-1.016143753603969,-0.5817194434265416,664,656
+0901,Coffee,Undifferentiated product,Agriculture,-1.4157633739596331,-0.6842225628189388,750,789
+0902,Tea,Undifferentiated product,Agriculture,-1.7806215832815346,-0.5578092916581018,789,627
+0904,Pepper,Undifferentiated product,Agriculture,-1.6682773243177904,-0.5776204633087242,784,652
+0910,Spices,Undifferentiated product,Agriculture,-1.521290404038806,-0.6464875416997685,766,752
+1001,Wheat and meslin,Undifferentiated product,Agriculture,-0.161484351352611,-0.3940678474640141,462,472
+1003,Barley,Undifferentiated product,Agriculture,-0.18114645223113215,-0.42113989420238446,467,494
+1005,Corn,Undifferentiated product,Agriculture,-0.9864896332133672,-0.444691576358079,654,506
+1006,Rice,Undifferentiated product,Agriculture,-1.5511676933892742,-0.42766093989803294,769,498
+1007,Grain sorghum,Undifferentiated product,Agriculture,-1.952546743068924,-0.5331516321067546,800,592
+1101,Wheat or meslin flour,Differentiated product,Agriculture,-1.14215824838804,-0.6604019796734845,693,764
+1103,Cereal meals,Undifferentiated product,Agriculture,-0.9161064647008912,-0.6037400476464329,640,690
+1104,Worked cereal grains,Undifferentiated product,Agriculture,-0.681331988506124,-0.6084987171746207,583,696
+1108,Starches,Differentiated product,Agriculture,-0.5727453860779805,-0.4060916682413057,553,480
+1201,Soya beans,Undifferentiated product,Agriculture,-1.7287975363902046,-0.5588511888115985,787,632
+1202,Peanuts,Undifferentiated product,Agriculture,-2.1035305487519707,-0.6387412164846963,806,740
+1205,Rape or colza seeds,Undifferentiated product,Agriculture,0.00993860743945653,-0.4118413198250855,422,486
+1206,Sunflower seeds,Undifferentiated product,Agriculture,-0.7436102563367489,-0.5324286986256828,598,589
+1207,Other oil seeds,Undifferentiated product,Agriculture,-1.8161941656906828,-0.6686582637893048,790,775
+1209,Seeds used for sowing,Undifferentiated product,Agriculture,-1.0677071279948946,-0.6200772569342743,671,713
+1211,"Plants used in perfumery, pharmacy or insecticide",Differentiated product,Agriculture,-1.6506908450558069,-0.6953062010533667,781,802
+1212,Seaweeds & edible vegetable products,Undifferentiated product,Agriculture,-1.5532807367350532,-0.6718699647146957,770,778
+1214,Forage products,Undifferentiated product,Agriculture,-0.41089345833812274,-0.482996519917915,522,541
+1302,Vegetable saps and extracts,Differentiated product,Agriculture,-1.1331278985311732,-0.5948743080820149,689,673
+1502,"Bovine, sheep and goat fats",Undifferentiated product,Agriculture,-0.7046932812994146,-0.41519777339561975,592,489
+1504,Fish oils,Undifferentiated product,Agriculture,-1.1471656831862,-0.6648808180698363,695,771
+1507,Soybean oil,Undifferentiated product,Agriculture,-1.440681845482659,-0.5846488701280004,752,660
+1511,Palm oil,Undifferentiated product,Agriculture,-1.828354482386474,-0.6623227546563786,792,768
+1512,Sunflower seed oil,Undifferentiated product,Agriculture,-1.0116339311863882,-0.5578988567058625,663,629
+1513,Coconut & palm kernel oil,Undifferentiated product,Agriculture,-1.4479140308234768,-0.662991155508333,753,769
+1514,"Rapeseed, colza or mustard oil,",Undifferentiated product,Agriculture,0.17772689205554532,-0.3345754184250761,385,436
+1515,Other vegetable fats and oils,Undifferentiated product,Agriculture,-0.979056046117756,-0.6396716621595625,651,742
+1516,"Vegetable fats, hydrogenated",Undifferentiated product,Agriculture,-1.1758206438272627,-0.5340054272757052,703,593
+1517,Margarine,Differentiated product,Agriculture,-0.991336699455227,-0.59748226666032,657,677
+1518,"Animal or vegetable fats and oils, processed",Undifferentiated product,Agriculture,-0.01100772878386703,-0.24353950475603997,427,390
+1519,Stearic acid,Undifferentiated product,Agriculture,-0.3798621105365283,-0.34613760275954086,512,444
+1520,Glycerol,Undifferentiated product,Agriculture,-0.2518709434685495,-0.210088699953411,483,376
+1601,Sausages,Undifferentiated product,Agriculture,0.22577123159370607,-0.47028505381402985,370,527
+1602,Other prepared or preserved meat,Undifferentiated product,Agriculture,0.00678895815250915,-0.5361204521695067,424,595
+1604,Prepared or preserved fish,Undifferentiated product,Agriculture,-1.1942940870961618,-0.6492663067536799,710,757
+1605,Prepared aquatic invertibrates,Undifferentiated product,Agriculture,-1.5550625578920134,-0.5880241292217019,771,666
+1701,Sugarcane & sucrose,Undifferentiated product,Agriculture,-1.58290562738028,-0.6531945097469133,777,760
+1702,Other sugars,Undifferentiated product,Agriculture,0.162938944464291,-0.2884932754995626,388,412
+1704,Confectionery sugar,Undifferentiated product,Agriculture,-0.5736088423782318,-0.5382103439894574,554,601
+1801,Cocoa beans,Undifferentiated product,Agriculture,-2.5934597641569495,-0.7008614603139746,816,805
+1803,Cocoa paste,Undifferentiated product,Agriculture,-0.4911386154873183,-0.6154126013707347,536,703
+1804,Cocoa butter,Undifferentiated product,Agriculture,-0.7701927737976613,-0.6182741816958414,608,709
+1805,Cocoa powder,Undifferentiated product,Agriculture,-0.2688095123053001,-0.39812215677390145,488,477
+1806,Chocolates,Differentiated product,Agriculture,0.17281006988385464,-0.5010871855715336,386,559
+1901,Malt extract,Differentiated product,Agriculture,-0.1560880515298285,-0.4973701765491159,459,553
+1902,Pasta,Differentiated product,Agriculture,-1.0699960716231962,-0.6181257025619027,673,708
+1904,Cereal foods,Undifferentiated product,Agriculture,-0.45043216747972054,-0.5763559029342428,529,651
+1905,Bakery products,Differentiated product,Agriculture,-0.27701055837933064,-0.5724268637333229,489,644
+2001,Pickled fruits and vegetables,Differentiated product,Agriculture,-0.7988856895884218,-0.5368992342317831,621,597
+2002,"Tomatoes, prepared or preserved",Undifferentiated product,Agriculture,-0.9759307002400872,-0.48543335382492264,650,544
+2003,"Mushrooms, prepared or preserved",Differentiated product,Agriculture,0.7285044543308132,4.578927123226133,223,4
+2004,"Other vegetables, frozen",Undifferentiated product,Agriculture,-0.05994106060109741,0.2771616881001709,433,199
+2005,"Other vegetables, prepared or preserved",Differentiated product,Agriculture,-0.7962258275800033,-0.6150802599960045,619,700
+2007,"Jams, jellies and marmalades",Differentiated product,Agriculture,-0.5907156729684123,-0.536959398398457,558,598
+2008,"Fruits and nuts, otherwise prepared",Differentiated product,Agriculture,-1.1702559677692357,-0.6314321327909027,701,731
+2009,Fruit juices,Undifferentiated product,Agriculture,-1.1386717039063403,-0.6374327597476834,692,738
+2101,Coffee extracts,Differentiated product,Agriculture,-0.3808469651352898,-0.528619513993151,513,582
+2102,Yeasts,Differentiated product,Agriculture,-0.6326634264502513,-0.4992691337564937,570,556
+2103,Sauces and seasonings,Differentiated product,Agriculture,-0.5567479943815788,-0.5913310746526531,552,668
+2104,Soups and broths,Differentiated product,Agriculture,-0.5819512952019638,-0.6036359139155064,555,688
+2105,Ice cream,Differentiated product,Agriculture,-0.10724585490535152,-0.46270806217011745,445,515
+2106,Food preparations n.e.c.,Differentiated product,Agriculture,0.05963611325502988,-0.5237075269685709,409,576
+2201,Waters,Differentiated product,Agriculture,-0.5962228076582443,-0.5670040828322415,560,639
+2202,"Waters, flavored or sweetened",Differentiated product,Agriculture,-0.7713832246677116,-0.6325416780034477,609,732
+2203,Beer,Undifferentiated product,Agriculture,-0.8546958577311717,-0.5848353864747362,626,662
+2204,Wine,Undifferentiated product,Agriculture,-0.7490912489421543,-0.3737705637868958,599,461
+2207,Ethyl alcohol > 80%,Undifferentiated product,Agriculture,-0.804831144204878,-0.6012787030245879,622,683
+2208,Spirits < 80% alcohol,Undifferentiated product,Agriculture,-0.5927176747318648,-0.5544599211847364,559,623
+2301,"Flours of fish, for animal feed",Undifferentiated product,Agriculture,-1.3576098645342232,-0.6858317124524248,744,792
+2302,Cereal residues,Undifferentiated product,Agriculture,-1.9359993824079416,-0.7050392054240099,799,808
+2303,Starch residues,Undifferentiated product,Agriculture,-0.12181759700113053,-0.24147840257522357,449,389
+2304,Solid soybean residues,Undifferentiated product,Agriculture,-1.279063786324287,-0.49824085021138376,728,555
+2306,Solid vegetable oil and fat residues,Undifferentiated product,Agriculture,-0.960147931436072,-0.6446914885538177,645,749
+2309,Animal feed,Undifferentiated product,Agriculture,-0.3850183612718463,-0.579212943379784,517,654
+2401,Unmanufactured tobacco,Undifferentiated product,Agriculture,-1.4635989865808754,-0.6338979318153583,757,733
+2402,Cigars and cigarettes,Undifferentiated product,Agriculture,-1.0091795253710378,-0.6355659397422992,661,736
+2403,Other manufactured tobacco,Undifferentiated product,Agriculture,-0.4014487016457226,-0.494833388908868,520,550
+2501,Salt,Undifferentiated product,Minerals,-1.105415025376891,-0.6416935808084377,683,745
+2503,"Sulphur, crude",Undifferentiated product,Minerals,-1.450678390752486,-0.6974841098159982,754,804
+2505,Natural sands,Undifferentiated product,Minerals,-0.9885063545841676,-0.572809027852839,656,645
+2507,Kaolin,Undifferentiated product,Minerals,0.02196357088151154,-0.09238797329895464,420,321
+2508,Clays,Undifferentiated product,Minerals,-0.7418782426533795,-0.5696698680076007,597,640
+2515,Marble,Differentiated product,Minerals,-1.3488639303821586,-0.4966807869504776,741,551
+2516,Granite,Differentiated product,Minerals,-1.4559230210168723,-0.6471639759355534,755,753
+2517,Gravel,Undifferentiated product,Minerals,-0.6397904737983311,-0.6622370097966608,574,767
+2519,Natural magnesia,Undifferentiated product,Minerals,-0.37252557545346904,-0.3501852045935226,510,446
+2520,Gypsum,Undifferentiated product,Minerals,-1.2725363295434324,-0.670162847625096,723,777
+2523,Cements,Undifferentiated product,Minerals,-1.30534119354833,-0.6869235506323441,733,795
+2529,Feldspar,Undifferentiated product,Minerals,-1.4181748914850814,-0.5787933544481649,751,653
+2530,Mineral substances n.e.c.,Differentiated product,Minerals,-2.316829520672588,-0.4293945602072458,811,499
+2601,Iron ores and concentrates,Undifferentiated product,Minerals,-1.725267483040765,-0.6151525552478144,786,702
+2602,Manganese > 47% by weight,Undifferentiated product,Minerals,-2.290179844453017,-0.5801880622048726,810,655
+2603,Copper ore,Undifferentiated product,Minerals,-1.9895171264592144,-0.681091813472829,802,786
+2604,Nickel ore,Undifferentiated product,Minerals,-1.5632189556802412,-0.4942658457817289,773,549
+2605,Cobalt ore,Undifferentiated product,Minerals,-2.375717212776892,-0.5925331823759326,812,672
+2606,Aluminum ore,Undifferentiated product,Minerals,-2.235668205843673,-0.6490560600201822,808,756
+2607,Lead ore,Undifferentiated product,Minerals,-1.2744666989013065,-0.6306218153293086,724,726
+2608,Zinc ore,Undifferentiated product,Minerals,-1.3754206103234723,-0.6151482435080042,746,701
+2610,Chromium ore,Undifferentiated product,Minerals,-2.4276216519306693,-0.6422990650945719,814,747
+2612,Uranium ore,Undifferentiated product,Minerals,-2.4338418741889782,-0.6417944175259807,815,746
+2613,Molybdenum ore,Undifferentiated product,Minerals,-0.7906893808474915,-0.4325490557045299,616,501
+2614,Titanium ore,Undifferentiated product,Minerals,-1.5796682484105664,-0.5524529447813744,776,620
+2615,Zirconium ore,Undifferentiated product,Minerals,-2.4055019584842787,-0.6862109371151126,813,793
+2616,Precious metal ores,Undifferentiated product,Minerals,-1.762978972505706,-0.6661836998207603,788,773
+2620,"Slag, ash and residues containing metals",Undifferentiated product,Minerals,-0.6908829154176256,-0.6728084753399012,585,780
+2701,Coal,Differentiated product,Minerals,-1.8485710057881772,-0.6036699881260263,794,689
+2703,Peat,Differentiated product,Minerals,0.5442243723705795,0.3270021624440579,278,188
+2704,Coke,Undifferentiated product,Minerals,-0.5494373223065221,-0.3522033979089654,550,449
+2707,Oils etc. from high temperature coal tar,Undifferentiated product,Minerals,0.355301341788334,-0.6484902144401066,336,755
+2708,Pitch and pitch coke,Undifferentiated product,Minerals,0.057567512127787,-0.3839456302985718,410,466
+2709,"Petroleum oils, crude",Undifferentiated product,Minerals,-1.8534977266407904,-0.7172659975840516,795,816
+2710,"Petroleum oils, refined",Undifferentiated product,Minerals,-0.7046018530440152,-0.6848968104376374,591,790
+2711,Petroleum gases,Undifferentiated product,Minerals,-1.6421477261849444,-0.7171179273529856,780,815
+2712,Petroleum jelly,Undifferentiated product,Minerals,-0.35860441369324864,-0.6166139810841299,509,705
+2713,Petroleum coke,Differentiated product,Minerals,-0.6854395887873338,-0.6591742419275016,584,763
+2714,"Bitumen and asphalt, natural",Differentiated product,Minerals,-0.9529868528024992,-0.5916798755919589,644,670
+2715,Bituminous mixtures,Differentiated product,Minerals,-0.7385400255630933,-0.6645062433340141,596,770
+2716,Electrical energy,Undifferentiated product,Minerals,-0.2963782709989561,-0.6383120176306583,494,739
+2803,Carbon,Undifferentiated product,Industrial Chemicals and Metals,0.24932503776288412,-0.10537916328993008,359,326
+2804,Silicon & rare gases,Undifferentiated product,Industrial Chemicals and Metals,-0.16903641875647388,-0.6297508480574885,465,725
+2807,"Sulfiric acid, oleum",Undifferentiated product,Industrial Chemicals and Metals,-0.18518174466405585,-0.3657199994084621,468,455
+2809,Phosphoric acid etc.,Undifferentiated product,"Construction, Building, and Home Supplies",-0.522796521559653,-0.188464551703777,541,370
+2811,Other inorganic acids,Undifferentiated product,Industrial Chemicals and Metals,0.143508380248288,-0.4634205360731408,394,516
+2814,Ammonia,Undifferentiated product,Industrial Chemicals and Metals,-1.0344018436729043,-0.6937251278171851,667,800
+2815,Sodium hydroxide,Undifferentiated product,Industrial Chemicals and Metals,0.2193773718507464,-0.5439641287535188,375,610
+2818,Aluminum oxide,Undifferentiated product,Industrial Chemicals and Metals,-0.5821880726475632,-0.27091756270712214,556,402
+2821,Iron oxides and hydroxides,Undifferentiated product,Industrial Chemicals and Metals,-0.25131530392807394,0.4314701942631653,482,158
+2822,Cobalt oxides and hydroxides,Undifferentiated product,Industrial Chemicals and Metals,-1.989983118638523,-0.6615172934805217,803,766
+2825,"Metal base oxides, n.e.c.",Undifferentiated product,Industrial Chemicals and Metals,-1.5670466985769111,-0.1100334585301861,774,328
+2826,Flourides,Undifferentiated product,Industrial Chemicals and Metals,0.6116107849759055,-0.2196601201991444,255,380
+2827,"Chlorides, bromides, iodides etc.",Undifferentiated product,Industrial Chemicals and Metals,0.22143368902525348,-0.16436100730202793,374,363
+2833,Sulfates,Undifferentiated product,Industrial Chemicals and Metals,-0.6631873792381839,-0.3764415843438081,582,462
+2834,"Nitrites, nitrates",Undifferentiated product,Industrial Chemicals and Metals,-0.4645868505959221,-0.26490817850354004,532,398
+2835,Phosphates,Undifferentiated product,Industrial Chemicals and Metals,-0.01697208726400356,-0.35084596651745265,429,447
+2836,Carbonates,Undifferentiated product,Industrial Chemicals and Metals,-1.3901093198935204,-0.5308749186383324,748,586
+2841,Salts of oxometallic acids,Undifferentiated product,Industrial Chemicals and Metals,3.161555312922042,17.490195849864843,1,1
+2843,Compounds of precious metals,Undifferentiated product,Industrial Chemicals and Metals,1.901402342552152,1.8027035028938896,12,22
+2844,Uranium,Undifferentiated product,Industrial Chemicals and Metals,-0.5982322878382511,-0.34047958055242594,561,441
+2849,Carbides,Undifferentiated product,Industrial Chemicals and Metals,0.1870416859136629,-0.081149797955361,381,318
+2901,Acyclic hydrocarbons,Undifferentiated product,Industrial Chemicals and Metals,0.5243812500923515,-0.5290367930253218,281,583
+2902,Cyclic hydrocarbons,Undifferentiated product,Industrial Chemicals and Metals,0.6535747423326222,-0.5364330838679006,241,596
+2903,Halogenated derivatives of hydrocarbons,Undifferentiated product,Industrial Chemicals and Metals,0.8927793934623299,-0.4967253378931256,174,552
+2904,"Sulfonated, nitrated derivatives of hydrocarbons",Undifferentiated product,Industrial Chemicals and Metals,0.21505941836283676,-0.503512662771712,376,562
+2905,Acyclic alcohols,Undifferentiated product,Industrial Chemicals and Metals,-0.3236572223263367,-0.714999511514665,498,810
+2906,Cyclic alcohols,Undifferentiated product,Industrial Chemicals and Metals,1.239849828041139,0.7124633633903197,94,113
+2907,"Phenols, phenol-alcohols",Undifferentiated product,Industrial Chemicals and Metals,1.0577141610080136,-0.04544890299551368,127,299
+2909,Ethers,Undifferentiated product,Industrial Chemicals and Metals,-0.32104864860298415,-0.6051050135229799,497,692
+2910,Epoxides,Undifferentiated product,Industrial Chemicals and Metals,1.6905184742998345,1.047351799203853,19,68
+2912,Aldehydes,Undifferentiated product,Industrial Chemicals and Metals,1.3707899942251862,0.5019862934320173,67,147
+2914,Ketones and quinones,Undifferentiated product,Industrial Chemicals and Metals,1.380267504920831,0.34557551587650653,64,183
+2915,Saturated acyclic monocarboxylic acids,Undifferentiated product,Industrial Chemicals and Metals,0.9778850063116464,0.38443075752718897,143,171
+2916,Unsaturated acyclic monocarboxylic acids,Undifferentiated product,Industrial Chemicals and Metals,1.0590713677636217,-0.05902694586827423,126,304
+2917,Polycarboxylic acids,Undifferentiated product,Industrial Chemicals and Metals,0.7381267855482774,0.862591811471007,220,93
+2918,Carboxylic acids with additional oxygen function,Undifferentiated product,Industrial Chemicals and Metals,0.8984514159861057,0.2343721123981407,171,213
+2920,Esters of other inorganic acids of nonmetals,Undifferentiated product,Industrial Chemicals and Metals,1.671784238702631,1.2583146373280298,21,45
+2921,Amine-function compounds,Undifferentiated product,Industrial Chemicals and Metals,1.2768736866431647,0.48726241205667575,85,152
+2922,Oxygen-function amino-compounds,Undifferentiated product,Industrial Chemicals and Metals,0.8912222480511226,0.21413508236219345,175,220
+2923,Quaternary ammonium salts and hydroxides,Undifferentiated product,Industrial Chemicals and Metals,0.35700392268310954,-0.19813969855044644,334,375
+2924,Carboxyamide-function compounds,Undifferentiated product,Industrial Chemicals and Metals,1.5167006080516354,1.0547365203501415,48,66
+2925,Carboxyimide-function compounds,Undifferentiated product,Industrial Chemicals and Metals,1.6232741767194376,0.7798522241206002,32,102
+2926,Nitrile-function compounds,Undifferentiated product,Industrial Chemicals and Metals,1.7688329140016377,2.6259624162491337,14,12
+2929,Isocyanates,Undifferentiated product,Industrial Chemicals and Metals,1.0756251889250217,0.00580054803455639,118,278
+2930,Organo-sulfur compounds,Undifferentiated product,Industrial Chemicals and Metals,1.309769985491566,1.241665149634145,80,48
+2931,Other organo-inorganic compounds,Undifferentiated product,Industrial Chemicals and Metals,1.9051250003769231,3.5476993158417813,11,7
+2932,Heterocyclic compounds with oxygen hetero-atom(s) only,Undifferentiated product,Industrial Chemicals and Metals,0.9888573735110412,0.17020935320888936,139,233
+2933,Heterocyclic compounds with nitrogen hetero-atom(s) only,Undifferentiated product,Industrial Chemicals and Metals,1.1581998184790157,-0.1770799120811733,106,366
+2934,Nucleic acids and their salts,Undifferentiated product,Industrial Chemicals and Metals,1.5948098212800124,1.2031385387171631,34,51
+2935,Sulfonamides,Undifferentiated product,Industrial Chemicals and Metals,1.3183862281636496,1.051599473307685,79,67
+2936,Vitamins,Undifferentiated product,Industrial Chemicals and Metals,0.7792841591183346,0.1969948363423977,212,224
+2937,Hormones,Differentiated product,Industrial Chemicals and Metals,1.0453393917925369,0.41819657755448736,131,164
+2939,Vegetable alkaloids,Differentiated product,Industrial Chemicals and Metals,0.4300103275013821,-0.14112410349850155,315,352
+2941,Antibiotics,Differentiated product,Industrial Chemicals and Metals,0.9784722781495844,1.0856799839613072,142,61
+3001,Heparin for therapeutic use,Differentiated product,Industrial Chemicals and Metals,0.9769162128094993,0.6913234650731868,144,116
+3002,Serums and vaccines,Differentiated product,Industrial Chemicals and Metals,1.683530902630843,1.4400691333747992,20,35
+3003,"Medicaments, not packaged",Differentiated product,Industrial Chemicals and Metals,0.5568844666652747,-0.24656353310536572,269,392
+3004,"Medicaments, packaged",Differentiated product,"Construction, Building, and Home Supplies",0.6708651886316368,-0.1892031844692957,239,371
+3005,"Wadding, gauze and bandages",Differentiated product,Metalworking and Electrical Machinery and Parts,0.9198310852109962,0.01850092425373488,165,274
+3006,Pharmaceutical goods,Differentiated product,Industrial Chemicals and Metals,0.8594522511058271,-0.12265941467750108,186,341
+3102,Nitrogenous fertilizers,Undifferentiated product,Industrial Chemicals and Metals,-1.2969929714351385,-0.686256889132367,732,794
+3103,Phosphatic fertilizers,Undifferentiated product,Industrial Chemicals and Metals,-1.1236777984000643,-0.41165284413653735,685,485
+3104,Potassic fertilizers,Undifferentiated product,Industrial Chemicals and Metals,-1.0719204314418018,-0.5568235519430744,675,626
+3105,Mixed fertilizers,Undifferentiated product,"Construction, Building, and Home Supplies",-1.068304440698009,-0.6165349396473215,672,704
+3204,Synthetic organic coloring matter,Undifferentiated product,Industrial Chemicals and Metals,0.3505846761116961,-0.07783059875675435,337,315
+3206,Other coloring matter,Undifferentiated product,Industrial Chemicals and Metals,0.23133438979567095,-0.13294108494365053,367,346
+3207,Prepared pigments,Differentiated product,Industrial Chemicals and Metals,0.5842149134790059,1.4749292325281227,263,34
+3208,"Paints and varnishes, nonaqueous",Differentiated product,"Construction, Building, and Home Supplies",0.44826973529920705,-0.41243728104607735,310,488
+3209,"Paints and varnishes, aqueous",Differentiated product,"Construction, Building, and Home Supplies",-0.3060997494081867,-0.5400027434312465,495,603
+3212,"Pigments, nonaqueous",Differentiated product,"Construction, Building, and Home Supplies",0.983381595552303,-0.05688516668406715,140,302
+3214,Glaziers' putty,Differentiated product,"Construction, Building, and Home Supplies",0.3304277418986516,-0.229983343993531,340,385
+3215,Ink,Differentiated product,Industrial Chemicals and Metals,0.5890845173561515,-0.24748327930851052,261,393
+3301,Essential oils,Differentiated product,Textile Apparel and Accessories,-1.263319635476477,-0.5820248049202087,721,657
+3303,Perfumes,Differentiated product,"Construction, Building, and Home Supplies",0.19324829131610585,-0.5744891182347375,380,649
+3304,Make-up preparations,Differentiated product,"Construction, Building, and Home Supplies",0.3840795039784936,-0.4346306963952666,326,502
+3305,Hair products,Differentiated product,"Construction, Building, and Home Supplies",0.4411278607200733,-0.4226800154235427,312,496
+3306,Dental hygiene products,Differentiated product,"Construction, Building, and Home Supplies",0.14055913407830306,-0.35176834659187245,396,448
+3307,Toiletries,Differentiated product,"Construction, Building, and Home Supplies",0.21288326356856072,-0.2806615964192378,377,406
+3401,Soap,Differentiated product,"Construction, Building, and Home Supplies",-1.1316022577054037,-0.60299059889404,688,686
+3402,Cleaning products,Differentiated product,Industrial Chemicals and Metals,-0.14781358805192216,-0.5026678808285322,457,560
+3403,Lubricants,Undifferentiated product,Industrial Chemicals and Metals,1.503033806955759,-0.31204554869674106,50,428
+3404,Artificial and prepared waxes,Differentiated product,Industrial Chemicals and Metals,0.763360638324998,0.37194363060053753,214,176
+3405,Polishes and creams,Differentiated product,"Construction, Building, and Home Supplies",-0.12785025165995675,-0.3945906485432974,450,473
+3406,Candles,Differentiated product,"Construction, Building, and Home Supplies",0.12660880937176658,-0.3828613413232962,398,464
+3501,Casein,Undifferentiated product,"Construction, Building, and Home Supplies",-0.22885035471239212,-0.15406786489943883,475,359
+3503,Gelatin,Undifferentiated product,"Construction, Building, and Home Supplies",-0.20481577800362627,-0.4235887857086176,471,497
+3504,Peptones,Undifferentiated product,Industrial Chemicals and Metals,0.8719286805509092,0.382462425559528,183,174
+3505,Dextrins and other modified starches,Undifferentiated product,"Construction, Building, and Home Supplies",0.4753773284100699,0.21730510798494312,295,219
+3506,Glues and adhesives,Undifferentiated product,Industrial Chemicals and Metals,0.6808563322498321,-0.07332393965052134,234,313
+3507,Enzymes,Undifferentiated product,Industrial Chemicals and Metals,1.1818642513419428,0.5187580632932549,102,145
+3603,Detonators,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.7639231166716682,-0.5830137767332998,606,659
+3701,Photographic plates,Differentiated product,Industrial Chemicals and Metals,1.249153224370573,0.772656819366566,93,103
+3702,Photographic film in rolls,Differentiated product,Industrial Chemicals and Metals,1.0616455449936917,1.0209597743241623,123,71
+3703,Photographic paper,Differentiated product,Industrial Chemicals and Metals,0.5485141063611294,0.35495162466665803,275,181
+3801,Artificial graphite,Differentiated product,Metalworking and Electrical Machinery and Parts,0.908809041382085,0.5791326058940724,167,135
+3802,Activated carbon,Differentiated product,Industrial Chemicals and Metals,-0.3458415304970555,-0.2955249296952175,507,419
+3806,Rosin and resin acids,Undifferentiated product,Industrial Chemicals and Metals,-0.23825606932586363,-0.10170160310577286,478,325
+3808,"Insecticides, rodenticides, fungicides, etc.",Differentiated product,"Construction, Building, and Home Supplies",0.14710769558172798,-0.32807200742602205,392,434
+3809,Finishing agents,Differentiated product,Industrial Chemicals and Metals,0.5612253936293796,-0.2517128575438043,268,394
+3810,Pickling preparations for metal surfaces,Differentiated product,Industrial Chemicals and Metals,1.4836557937808403,0.3939973439949609,52,169
+3811,Anti-knock,Differentiated product,Industrial Chemicals and Metals,0.1833697241465692,-0.12098746728886872,383,339
+3812,Stabilizers for rubber or plastic,Differentiated product,Industrial Chemicals and Metals,0.8778320312398978,0.2709802263810118,180,201
+3814,Organic composite solvents and thinners,Differentiated product,"Construction, Building, and Home Supplies",-0.07190644457464748,-0.6123104768624862,436,699
+3815,Catalytic preparations,Differentiated product,Industrial Chemicals and Metals,0.8197422347785206,0.05624033172596621,198,261
+3816,Refractory cements,Differentiated product,"Construction, Building, and Home Supplies",0.49244196953542674,-0.04517685072636203,289,298
+3817,Mixed alkylbenzenes,Differentiated product,Industrial Chemicals and Metals,-0.07350966308424513,-0.5213518463373498,437,572
+3818,Chemical elements for electronics,Differentiated product,Industrial Chemicals and Metals,1.7477348780874402,2.054086478860746,15,17
+3821,Prepared culture media for micro-organisms,Differentiated product,Industrial Chemicals and Metals,1.1961485513089425,0.5706653226865268,98,138
+3822,Diagnostic or laboratory reagents,Differentiated product,Industrial Chemicals and Metals,0.5524270905271174,-0.31873442415853953,270,431
+3823,Industrial monocarboxylic fatty acids,Differentiated product,Industrial Chemicals and Metals,0.26803457401653225,-0.4068500768850335,353,482
+3901,Polymers of ethylene,Undifferentiated product,Industrial Chemicals and Metals,0.2105403519167117,-0.6350876558627363,378,735
+3902,Polymers of propylene,Undifferentiated product,Industrial Chemicals and Metals,0.549189486643838,-0.4931401157214104,274,547
+3903,Polymers of styrene,Undifferentiated product,Industrial Chemicals and Metals,0.9343165922597032,0.08566545107528949,160,252
+3904,Polymers of vinyl chloride,Undifferentiated product,Industrial Chemicals and Metals,0.5899606999841516,0.09099782861627118,260,250
+3905,Polymers of vinyl acetate,Undifferentiated product,Industrial Chemicals and Metals,0.9483735579108036,0.13521102311182484,152,240
+3906,Acrylic polymers,Differentiated product,Industrial Chemicals and Metals,1.078233407700747,-0.13706561844399856,117,350
+3907,Polyacetals,Undifferentiated product,Industrial Chemicals and Metals,0.6311326891019072,-0.1376581568284906,248,351
+3908,Polyamides,Undifferentiated product,Industrial Chemicals and Metals,1.548256899525088,1.403683073964915,42,38
+3909,Amino-resins,Undifferentiated product,Industrial Chemicals and Metals,0.8200679785804913,-0.26716262775692545,197,400
+3910,Silicones in primary forms,Undifferentiated product,Industrial Chemicals and Metals,1.6943976715882036,2.053016216662404,17,18
+3911,Petroleum resins,Differentiated product,Industrial Chemicals and Metals,1.2810595722894214,-0.306359636695868,84,424
+3912,Cellulose n.e.c.,Undifferentiated product,Industrial Chemicals and Metals,0.9259235265396122,0.14577341123894946,163,239
+3913,Natural polymers,Differentiated product,Industrial Chemicals and Metals,0.6177715913883034,-0.0414885569760713,253,294
+3914,Ion-exchangers based on polymers,Differentiated product,Industrial Chemicals and Metals,1.934335684853798,1.694052366043837,10,25
+3915,Plastic waste,Undifferentiated product,"Construction, Building, and Home Supplies",-0.6067320650820249,-0.64992072184133165,566,758
+3916,Monofilament,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.49405498909239903,0.4119773458177584,288,166
+3917,Plastic tubes and fittings,Differentiated product,"Construction, Building, and Home Supplies",-0.10042003518659108,-0.5974108931162507,443,676
+3918,Plastic floor coverings,Differentiated product,Metalworking and Electrical Machinery and Parts,0.42807212963940383,0.7143040895654916,316,112
+3919,Self-adhesive plastic sheets,Differentiated product,Industrial Chemicals and Metals,1.0715998548979668,0.7435888949147683,119,108
+3920,"Other plates of plastics, noncellular and not reinforced",Undifferentiated product,"Construction, Building, and Home Supplies",0.03891350338840879,-0.47972829655766175,415,539
+3921,"Other plastic plates, sheets etc.",Differentiated product,"Construction, Building, and Home Supplies",0.6390169593501351,-0.307786630885292,246,425
+3922,"Baths, sinks etc.",Differentiated product,"Construction, Building, and Home Supplies",0.3918014853459787,-0.0440928166249967,325,296
+3923,Packing lids,Differentiated product,"Construction, Building, and Home Supplies",-0.1466243517151257,-0.5433126641374626,456,607
+3924,Plastic household articles,Differentiated product,"Construction, Building, and Home Supplies",-0.913221481439657,-0.4085569659072576,638,483
+3925,Plastic builders' ware,Differentiated product,"Construction, Building, and Home Supplies",0.23518883487364697,-0.34521425403580897,364,443
+3926,Other articles of plastic,Differentiated product,Electronic and Electrical Goods,0.9422125499672108,0.00647462859509902,156,277
+4001,Natural rubber,Undifferentiated product,Textile and Home Goods,-1.9266436624890289,-0.6816699267188686,798,787
+4002,Synthetic rubber,Undifferentiated product,Industrial Chemicals and Metals,0.6749996553107559,-0.11426655525779011,237,334
+4005,Compounded rubber,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1616992212125552,0.2608400022380166,105,203
+4008,Vulcanized rubber plates,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8098243583878204,0.01873656956571544,203,273
+4009,Vulcanized rubber tubes,Differentiated product,Metalworking and Electrical Machinery and Parts,0.5678607009739741,-0.27846103662101884,266,404
+4010,Conveyor belts of vulcanized rubber,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0784714233319754,0.6808854269713909,116,119
+4011,New pneumatic tires of rubber,Differentiated product,"Construction, Building, and Home Supplies",0.2522168353921454,-0.29430120559095835,356,417
+4012,Used pneumatic tires of rubber,Differentiated product,Industrial Chemicals and Metals,0.3928225575088921,-0.02086483118513308,324,287
+4013,Rubber inner tubes,Differentiated product,Textile and Home Goods,-0.3823141109917469,-0.11654723248267568,515,336
+4015,Vulcanized rubber articles of apparel,Differentiated product,Textile and Home Goods,-0.3458169593515326,-0.06411755284481331,506,308
+4016,Other articles of vulcanized rubber,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6890742589374687,-0.11319091945355653,231,333
+4101,Raw hides of bovines or equines,Undifferentiated product,Agriculture,-1.2522772425589743,-0.6192505282960822,719,710
+4102,Raw skins of sheep or lambs,Differentiated product,Agriculture,-1.3740442017814614,-0.6957712848047158,745,803
+4104,Tanned hides of bovines or equines,Undifferentiated product,Agriculture,-1.30647467740329,-0.6453533616726183,734,751
+4105,Tanned sheepskins,Differentiated product,Agriculture,-1.5699002820143682,-0.6719790548198411,775,779
+4106,Tanned skins of other animals,Differentiated product,Agriculture,-1.5144671419085909,-0.6226802134160568,765,718
+4107,Bovine leather further prepared,Differentiated product,Agriculture,-0.6070373506596742,-0.6198382949887422,567,712
+4202,Trunks or cases,Differentiated product,Agriculture,-0.918028950365786,-0.21769170453728048,641,378
+4203,Leather apparel,Differentiated product,Agriculture,-0.6401465519871885,-0.336775619626271,575,437
+4301,Other raw furskins,Differentiated product,Agriculture,-0.5434278148446451,-0.38353284870136206,547,465
+4302,Other tanned furskins,Differentiated product,Agriculture,-0.502200351349462,-0.3966558718599859,538,475
+4303,Furskin apparel,Differentiated product,Agriculture,0.01854712782712007,0.5521044457086364,421,143
+4401,Fuel wood,Undifferentiated product,Agriculture,-0.3729345644371139,-0.5863899192464905,511,665
+4403,Wood in the rough,Undifferentiated product,Agriculture,-1.1729061122156028,-0.716405285568715,702,814
+4407,Wood sawn lengthwise,Differentiated product,Agriculture,-1.027287810531137,-0.7159350157111204,665,812
+4408,Sheets for veneering for plywood,Undifferentiated product,Agriculture,-0.7763738323671139,-0.715396037859082,610,811
+4409,Wood shaped along its edges,Differentiated product,Agriculture,-0.758866607677542,-0.647891537976697,602,754
+4410,Particle board and similar board,Undifferentiated product,Agriculture,0.08295670900515595,-0.3974920060695792,404,476
+4411,Fiberboard of wood,Undifferentiated product,Agriculture,-0.29254024957934205,-0.5285256530550753,493,581
+4412,Plywood,Undifferentiated product,Agriculture,-0.8702589681169729,-0.6060041591926998,630,693
+4415,Packing boxes,Differentiated product,Agriculture,0.14473450608188848,-0.48048346746777654,393,540
+4418,Wood carpentry for construction,Differentiated product,Agriculture,0.10297532990753896,-0.5423336670881415,401,606
+4421,Other articles of wood,Differentiated product,Agriculture,-0.435042726493076,-0.6003545897529067,527,682
+4602,Basketwork,Differentiated product,Agriculture,-1.1895788594623211,-0.49771801146202216,706,554
+4702,"Chemical woodpulp, dissolving grade",Undifferentiated product,Agriculture,-0.11353129885761092,-0.3341920793156993,446,435
+4703,"Chemical woodpulp, soda or sulfate",Undifferentiated product,Agriculture,-0.2607218844992734,-0.09943151694763618,485,324
+4705,Semichemical woodpulp,Undifferentiated product,Agriculture,-0.08914259852097298,-0.04872586280533022,440,300
+4707,Paper waste,Undifferentiated product,Agriculture,-0.1324205337599964,-0.5436705514672195,452,609
+4801,Newsprint,Undifferentiated product,Agriculture,0.9018072363294538,-0.06618569918231954,169,309
+4802,Paper used for graphic purposes,Undifferentiated product,Agriculture,0.3711832956927166,-0.13408396678252182,330,347
+4803,Tissue,Undifferentiated product,Agriculture,-0.59824765912793,-0.6177980254076546,562,707
+4804,Uncoated kraft paper and paperboard,Undifferentiated product,Agriculture,-0.29070594542237616,-0.4454317452785165,492,507
+4805,Other uncoated paper and paperboard,Undifferentiated product,Agriculture,-5.954887580896323e-4,-0.4064217235493769,426,481
+4806,Transparent paper,Undifferentiated product,Agriculture,1.186173386382055,0.6898916368134445,100,117
+4808,Corrugated paper and paperboard,Undifferentiated product,Agriculture,0.04950037791664241,-0.5256069528973374,413,579
+4809,Carbon paper,Undifferentiated product,Agriculture,0.22362286693598316,0.3830575566954494,371,172
+4810,"Paper and paperboard, coated with kaolin",Undifferentiated product,Agriculture,0.6041290504470197,0.05346213833335182,257,262
+4811,"Cellulose wadding, coated",Undifferentiated product,Agriculture,0.28739448237843795,-0.0764578315307568,349,314
+4813,Cigarette paper,Differentiated product,Agriculture,-0.08317793336997484,-0.2852803728130562,439,409
+4814,Wallpaper,Differentiated product,Agriculture,0.20571435275882544,-0.22754560954025096,379,384
+4818,Toilet paper,Differentiated product,Agriculture,-0.33693371560271823,-0.5721461242195675,504,643
+4819,Cardboard packing containers,Undifferentiated product,Agriculture,-0.5121576726114762,-0.5595888598414267,540,634
+4821,Paper labels,Differentiated product,Agriculture,-0.08085899367014976,-0.5229292473296765,438,573
+4823,Other paper cut to size,Undifferentiated product,Agriculture,0.04713287179090061,-0.14983668669361752,414,358
+4901,"Books, brochures etc.",Differentiated product,Agriculture,0.3605084810403805,-0.42203120368336583,332,495
+4902,"Newspapers, journals and periodicals",Differentiated product,Agriculture,1.0345688046239327,0.3009671588920294,133,194
+4907,Unused stamps,Differentiated product,Agriculture,-1.2759692173165196,-0.6534096970068424,725,761
+4911,Other printed matter,Differentiated product,Agriculture,0.5241834048879392,-0.3033851264133103,282,422
+5007,Woven silk fabrics,Differentiated product,Textile and Home Goods,-0.06271071580005193,0.9104499127214304,434,84
+5101,Wool,Undifferentiated product,Textile and Home Goods,-1.701663539614768,-0.3932356165593978,785,471
+5105,"Wool, combed",Undifferentiated product,Textile and Home Goods,-0.7630547535836303,-0.47435364299450256,605,532
+5107,"Yarn of combed wool, not for retail sale",Undifferentiated product,Textile and Home Goods,0.2762023136045597,-0.1666333620330588,352,364
+5111,Woven fabrics of carded wool,Differentiated product,Textile and Home Goods,0.3211724386236298,-0.32214175561305936,343,432
+5112,Woven fabrics of combed wool,Differentiated product,Textile and Home Goods,0.2482058665108196,0.00936521656668869,360,276
+5201,Raw cotton,Undifferentiated product,Textile and Home Goods,-2.2831805052954772,-0.6792004527702276,809,785
+5205,Cotton yarn of > 85%,Undifferentiated product,Textile and Home Goods,-1.6245087967014749,-0.6049687554042941,779,691
+5208,Woven fabrics of cotton of > 85% weighing < 200 g/m2,Undifferentiated product,Textile and Home Goods,-1.2648612530495236,-0.6023680895214355,722,684
+5209,Woven fabrics of cotton of < 85% weighing > 200 g/m2,Undifferentiated product,Textile and Home Goods,-0.9849699896146707,-0.555140546391164,653,624
+5210,Woven fabrics of cotton of < 85% weighing < 200 g/m2,Undifferentiated product,Textile and Home Goods,-0.983249418442698,-0.11275593368921512,652,331
+5211,Woven fabrics of cotton of < 85% weighing > 200 g/m2,Undifferentiated product,Textile and Home Goods,-0.633506973930891,-0.2443920221382152,572,391
+5309,Woven fabrics of flax,Differentiated product,Textile and Home Goods,0.4709903498939162,0.968722400313662,297,78
+5401,Synthetic sowing thread,Undifferentiated product,Textile and Home Goods,-0.406133845402648,-0.4537793211832858,521,509
+5402,Synthetic filament yarn,Undifferentiated product,Textile and Home Goods,0.2341508728629811,-0.11274469893954908,365,330
+5403,Artificial filament yarn,Undifferentiated product,Textile and Home Goods,0.5829434600288331,0.870696602748334,264,92
+5404,"Synthetic monofilament >67 dtex, thickness < 1mm",Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.2925222397240542,-0.5207330634136161,347,570
+5407,Woven fabrics of synthetic filament yarn,Undifferentiated product,Textile and Home Goods,-0.6057220381462098,0.1757151872381054,565,230
+5408,Woven fabrics of artificial filament yarn,Differentiated product,Textile and Home Goods,0.2656638156352329,0.10994743889428658,354,246
+5501,Synthetic filament tow,Undifferentiated product,"Construction, Building, and Home Supplies",-0.3263254387531966,-0.14348669023438695,500,354
+5502,Artificial filament tow,Undifferentiated product,Industrial Chemicals and Metals,0.4034972569774022,0.15727804042258822,321,236
+5503,Synthetic staple fibers,Undifferentiated product,Textile and Home Goods,0.17889232940505978,-0.11117128097901148,384,329
+5504,"Artificial staple fibers, not processed for spinning",Undifferentiated product,Textile and Home Goods,0.1652343884996426,0.2096427041159829,387,221
+5509,"Yarn of synthetic staple fibers, not for retail sale",Undifferentiated product,Textile and Home Goods,-0.5013941772672975,-0.33979256351359827,537,439
+5510,"Yarn of artificial staple fibers, not for retail sale",Undifferentiated product,Textile and Home Goods,-0.32524924084238244,0.25316691715707346,499,207
+5512,Woven fabrics of > 85% synthetic staple fibers,Undifferentiated product,Textile and Home Goods,-0.6331526601120038,-0.4087291680271331,571,484
+5513,Woven fabrics of < 85% synthetic staple fibers weighing < 170 g/m2,Undifferentiated product,Textile and Home Goods,-1.4974461926598752,-0.3400248665593288,763,440
+5514,Woven fabrics of < 85% synthetic staple fibers weighing > 170 g/m2,Undifferentiated product,Textile and Home Goods,-0.6251168423473145,-0.31193950757330263,569,427
+5515,Other woven fabrics of synthetic staple fibers,Undifferentiated product,Textile and Home Goods,-0.2145654750462029,-0.00237700620456965,472,279
+5516,Woven fabrics of artificial staple fibers,Differentiated product,Textile and Home Goods,-0.5315032243057877,0.5928438663599186,543,133
+5601,Wadding of textile materials,Differentiated product,Textile and Home Goods,0.08906363897945835,-0.3559458237454461,402,452
+5602,Felt,Differentiated product,Textile Apparel and Accessories,0.45466421243395416,0.24816988461360853,303,210
+5603,Nonwoven textiles,Differentiated product,Textile Apparel and Accessories,0.877303071470373,-0.03432441964800646,181,291
+5607,Twine and ropes of baste fibers,Differentiated product,Textile and Home Goods,-0.7651414013649642,-0.5330373998966337,607,591
+5608,Nets,Differentiated product,Textile and Home Goods,-0.7889982023414764,-0.46399903851713736,615,518
+5701,"Carpets, knotted",Differentiated product,Textile and Home Goods,-0.7954252624587569,-0.2540079147988906,618,396
+5702,Woven carpets and rugs,Differentiated product,Textile and Home Goods,-1.0107750263482906,-0.4046223330229947,662,479
+5703,"Carpets, tufted",Differentiated product,Textile and Home Goods,-0.16603349265750858,-0.1975448945246012,463,374
+5705,Other carpets,Differentiated product,Textile and Home Goods,-1.1896319465159026,-0.28680373313744945,707,411
+5801,Woven pile fabrics,Differentiated product,Textile and Home Goods,0.5080325359544845,1.4313585647878313,284,36
+5804,Lace and net fabrics,Differentiated product,Textile and Home Goods,-0.7527546063208437,-0.16138218085587747,601,361
+5806,Narrow woven fabrics,Differentiated product,Textile and Home Goods,-0.2508840589776084,-0.14556514432436626,480,356
+5807,Labels and badges of textiles,Differentiated product,Textile and Home Goods,-0.6613393908862844,-0.3686431843588851,581,458
+5810,Embroidery in the piece,Differentiated product,Textile and Home Goods,-0.3429154698646276,-0.0855363049192334,505,320
+5902,Tire cord fabric,Differentiated product,Textile and Home Goods,0.4526008831402849,0.6028582442000572,305,132
+5903,Textile fabrics impregnated with plastics,Differentiated product,Textile and Home Goods,1.4017262359350773,2.421608790621621,62,13
+5906,Rubberized textile fabrics,Differentiated product,Textile and Home Goods,0.7839972897909326,0.4667275472751504,210,154
+5911,Textile articles for technical use,Differentiated product,Textile and Home Goods,1.0969830936988834,-0.14542595532384553,111,355
+6001,"Pile fabrics, knit",Differentiated product,Textile and Home Goods,-0.5554178920056528,0.493473703442756,551,150
+6002,Other knitted fabrics,Differentiated product,Textile and Home Goods,-0.759016746581673,-0.33966415982436804,603,438
+6101,"Men's overcoats, knit",Differentiated product,Textile Apparel and Accessories,-1.0855560967780875,-0.5544595649546643,678,622
+6102,"Women's overcoats, knit",Differentiated product,Textile Apparel and Accessories,-1.0960605576838296,-0.6205446995909173,680,714
+6103,"Men's suits, knit",Differentiated product,Textile Apparel and Accessories,-1.46130672470797,-0.5405297239525845,756,604
+6104,"Women's suits, knit",Differentiated product,Textile Apparel and Accessories,-1.3234488364222468,-0.5462913362285221,736,613
+6105,"Men's shirts, knit",Differentiated product,Textile Apparel and Accessories,-1.5262217071880615,-0.5584336955583887,767,630
+6106,"Women's shirts, knit",Differentiated product,Textile Apparel and Accessories,-1.3285099661076245,-0.6025716406075656,738,685
+6107,"Men's undergarments, knit",Differentiated product,Textile Apparel and Accessories,-1.2284737156410084,-0.5211217746378416,714,571
+6108,"Women's undergarments, knit",Differentiated product,Textile Apparel and Accessories,-1.474669786108704,-0.4673618018137023,758,525
+6109,"T-shirts, knit",Differentiated product,Textile Apparel and Accessories,-1.3931714594971891,-0.5652025250856496,749,638
+6110,"Sweaters, pullovers, sweatshirts etc., knit",Differentiated product,Textile Apparel and Accessories,-1.2387078830918263,-0.5435104691447724,717,608
+6111,"Babies' garments, knit",Differentiated product,Textile Apparel and Accessories,-1.32479703756309,-0.4589097067360991,737,513
+6112,"Activewear, knit",Differentiated product,Textile Apparel and Accessories,-0.9136050058876162,-0.4187557177016924,639,492
+6114,"Other garments, knit",Differentiated product,Textile Apparel and Accessories,-1.2760872068109903,-0.5310941430159638,726,587
+6115,"Socks, stockings, etc., knit",Differentiated product,Textile Apparel and Accessories,-0.7963249399952185,-0.4742005777083028,620,531
+6116,"Gloves, knit",Differentiated product,Textile Apparel and Accessories,-0.993683956501963,-0.2849187557589342,658,408
+6117,"Other clothing accesories, knit",Differentiated product,Textile Apparel and Accessories,-1.3226373511398848,-0.4853293339962391,735,542
+6201,"Men's overcoats, not knit",Differentiated product,Textile Apparel and Accessories,-1.0495531047577162,-0.4714856864453024,669,528
+6202,"Womens overcoats, not knit",Differentiated product,Textile Apparel and Accessories,-0.8233451100941767,-0.32575562046326745,624,433
+6203,Men's suits and pants,Differentiated product,Textile Apparel and Accessories,-1.3360688155330016,-0.572125925249823,740,642
+6204,Women's suits and pants,Differentiated product,Textile Apparel and Accessories,-1.1529346434567165,-0.5495881103633391,696,615
+6205,Men's shirts,Differentiated product,Textile Apparel and Accessories,-1.189909679344762,-0.535037635310546,708,594
+6206,Women's shirts,Differentiated product,Textile Apparel and Accessories,-1.0633748521299344,-0.5001443463072818,670,558
+6207,Men's undergarments,Differentiated product,Textile Apparel and Accessories,-1.2551027908579944,-0.505388590498982,720,565
+6208,Women's undergarments,Differentiated product,Textile Apparel and Accessories,-1.2936068451633544,-0.4933112142216471,731,548
+6209,Babies' garments,Differentiated product,Textile Apparel and Accessories,-1.1369942664581605,-0.47870081339464265,691,538
+6210,Garments made of textile felts and nonwoven fabric,Differentiated product,Textile Apparel and Accessories,-0.9638038767652592,-0.4683029567477871,646,526
+6211,Activewear,Differentiated product,Textile Apparel and Accessories,-1.1164895861723465,-0.5738199098193599,684,647
+6212,Brassieres,Differentiated product,Textile Apparel and Accessories,-1.0801029939408149,-0.4749862798165162,677,533
+6214,"Shawls, scarves, etc.",Differentiated product,Textile Apparel and Accessories,-0.9128734805908484,-0.1915246114580728,637,372
+6215,"Ties, bow ties and cravats",Differentiated product,Textile Apparel and Accessories,0.2817087812218168,0.5604641501680331,350,140
+6217,Other clothing accesories,Differentiated product,Textile Apparel and Accessories,-0.7929994523647306,-0.5504710663503131,617,616
+6301,Blankets,Differentiated product,Textile Apparel and Accessories,-1.1641113861300467,-0.16183684687870434,699,362
+6302,House linen,Differentiated product,Textile Apparel and Accessories,-1.2766772692511674,-0.5147584632552397,727,567
+6303,Curtains,Differentiated product,Textile and Home Goods,-0.31344264741211647,-0.06232077713257046,496,307
+6304,Other furnishing articles,Differentiated product,Textile Apparel and Accessories,-1.2361244511410427,-0.499476504639212,716,557
+6305,Bags for packing goods,Differentiated product,Textile Apparel and Accessories,-1.582969124502891,-0.6650362223190807,778,772
+6306,"Tents, tarpaulins, etc.",Differentiated product,Textile and Home Goods,-0.7889229785549643,-0.3685982331451148,614,457
+6307,Other made up articles,Differentiated product,Textile Apparel and Accessories,-1.1930918205687997,-0.46198999948552344,709,514
+6309,Used clothes and textiles,Differentiated product,Textile Apparel and Accessories,-0.5087524522309962,-0.5154410283299273,539,568
+6402,Other footwear of rubber or plastics,Differentiated product,Textile Apparel and Accessories,-1.2469936094742815,-0.4204609906749089,718,493
+6403,Leather footwear,Differentiated product,Textile Apparel and Accessories,-0.6345151542534319,-0.36970779892175626,573,459
+6404,Textile footwear,Differentiated product,Textile Apparel and Accessories,-0.7780772372069513,-0.24113911143671465,611,388
+6405,Other footwear,Differentiated product,Textile Apparel and Accessories,-1.0435119643503667,-0.5914386685249594,668,669
+6505,"Hats, knit",Differentiated product,Textile Apparel and Accessories,-1.130884268695225,-0.412009262384044,687,487
+6506,Other headgear,Differentiated product,Textile and Home Goods,0.450246582761892,0.1016328371029122,308,247
+6601,Umbrellas,Differentiated product,Textile Apparel and Accessories,-0.1893063066141566,1.2179082399562535,469,49
+6702,Artificial flowers,Differentiated product,Textile and Home Goods,-1.1307212720252615,1.5943278776923002,686,27
+6704,Wigs,Differentiated product,Textile Apparel and Accessories,-2.2039647825037596,-0.5370801707834661,807,600
+6801,"Flagstones, of natural stone",Differentiated product,"Construction, Building, and Home Supplies",-0.6423192960873954,-0.355454406830891,576,451
+6802,Worked building stone,Differentiated product,"Construction, Building, and Home Supplies",-0.8764674394109955,-0.47509422388261857,632,534
+6804,Grindstones,Differentiated product,Metalworking and Electrical Machinery and Parts,1.409869639389307,0.6244365023471848,59,128
+6805,Natural or artificial abrasive powder,Differentiated product,Textile and Home Goods,1.3520723935916947,0.3794768556428066,71,175
+6807,Asphalt,Differentiated product,"Construction, Building, and Home Supplies",-0.2369551179080637,-0.5956181054112789,477,674
+6809,Plaster articles,Differentiated product,"Construction, Building, and Home Supplies",-0.54859988523875,-0.6312729360429241,548,730
+6810,"Articles of cement, of concrete or of artificial stone",Differentiated product,"Construction, Building, and Home Supplies",0.4332641478957394,-0.4440775633344805,314,505
+6813,Friction material and articles thereof,Differentiated product,Metalworking and Electrical Machinery and Parts,0.35893952078187413,-0.28572677812921426,333,410
+6815,Articles of stone or of other mineral substances,Differentiated product,Minerals,0.9759177488609906,-0.01129209435506174,145,284
+6902,"Bricks, tiles and similar refractory ceramic constructional goods",Differentiated product,Metalworking and Electrical Machinery and Parts,0.8305419046481689,0.7957012350542809,193,99
+6907,Unglazed ceramic flags and pavers,Differentiated product,"Construction, Building, and Home Supplies",-1.1363246839233627,-0.47725592709027104,690,536
+6908,Glazed ceramic flags and pavers,Differentiated product,Textile and Home Goods,-1.077759220111298,-0.5455127235841166,676,612
+6910,"Ceramic sinks, washbasins, and similar sanitary fixtures",Differentiated product,Textile and Home Goods,-0.7369876537195607,-0.30596531884217515,595,423
+6911,Porcelain or china household articles,Differentiated product,Textile and Home Goods,-0.8730961301101031,0.5168423587607617,631,146
+6912,Ceramic household articles,Differentiated product,Textile and Home Goods,0.15111437722708884,-0.00772167582829374,391,282
+6913,Ornamental ceramic articles,Differentiated product,Textile and Home Goods,-0.28621317372109795,0.8288330226961659,491,97
+7002,Glass balls,Differentiated product,Industrial Chemicals and Metals,1.251634548532656,1.7122318078112817,91,24
+7004,Drawn and blown glass,Differentiated product,Industrial Chemicals and Metals,-0.14815947082515316,-0.6239444206446706,458,721
+7005,Float glass,Differentiated product,Textile and Home Goods,-0.16774396593940108,-0.607358251837433,464,695
+7006,Worked glass,Differentiated product,Industrial Chemicals and Metals,1.3667258006420968,0.8996122961857991,68,86
+7007,Safety glass,Differentiated product,"Construction, Building, and Home Supplies",0.49985217933644105,-0.10805741400867495,286,327
+7008,Multiple-walled insulating glass,Differentiated product,"Construction, Building, and Home Supplies",0.5633163736833924,-0.15527888383144686,267,360
+7009,Glass mirrors,Differentiated product,Metalworking and Electrical Machinery and Parts,0.45787487016005973,0.5661130886300844,302,139
+7010,Glass containers for conveyance,Differentiated product,"Construction, Building, and Home Supplies",-0.42297988825459715,-0.5992682442871065,524,678
+7018,Glass beads,Differentiated product,Textile and Home Goods,0.8202891776971298,1.2460406872057983,195,47
+7019,Glass fibers,Differentiated product,"Construction, Building, and Home Supplies",0.37006907378111326,-0.23035412610875777,331,386
+7020,Other articles of glass,Differentiated product,"Construction, Building, and Home Supplies",0.7146934352546693,0.16472328474870532,228,235
+7102,Diamonds,Undifferentiated product,Industrial Chemicals and Metals,-0.9880490860811544,-0.6744786299211921,655,781
+7106,Silver,Undifferentiated product,Industrial Chemicals and Metals,-0.5985549938220638,-0.6236204738304658,563,720
+7110,Platinum,Undifferentiated product,Industrial Chemicals and Metals,0.5042860683422601,-0.11652320408989718,285,335
+7112,Scrap of precious metal,Undifferentiated product,Industrial Chemicals and Metals,-0.35196195830933724,-0.5293214649490996,508,585
+7117,Imitation jewelry,Differentiated product,Textile and Home Goods,-0.28396245297873846,-0.23794241900609223,490,387
+7201,Pig iron,Undifferentiated product,Minerals,-1.0062743518377302,0.09712839661033364,660,248
+7202,Ferroalloys,Undifferentiated product,Minerals,-1.493623143733618,-0.5972140764239308,762,675
+7203,Ferrous products from the reduction of iron ore,Undifferentiated product,Industrial Chemicals and Metals,-0.8607572035848354,-0.689891748316347,627,797
+7204,Ferrous waste and scrap,Undifferentiated product,Industrial Chemicals and Metals,-0.4834531110500969,-0.7159713977060719,535,813
+7205,Powders of iron or steel,Undifferentiated product,Industrial Chemicals and Metals,0.6019079221737854,0.11977176606486606,258,244
+7206,Iron and nonalloy steel,Differentiated product,Industrial Chemicals and Metals,-0.865043851102456,-0.6941185960424465,628,801
+7207,Semifinished products of iron or nonalloy steel,Differentiated product,"Construction, Building, and Home Supplies",-0.788242250243474,-0.5993048399635401,613,679
+7208,"Flat-rolled iron, width > 600mm, hot-rolled, not clad",Undifferentiated product,"Construction, Building, and Home Supplies",0.24427796790239512,-0.2785033745470653,361,405
+7209,"Flat-rolled iron, width > 600mm, cold-rolled, not clad",Undifferentiated product,"Construction, Building, and Home Supplies",-0.23177708257939753,-0.4863550095477317,476,545
+7210,"Flat rolled iron, width > 600mm, clad",Undifferentiated product,"Construction, Building, and Home Supplies",-0.2669526595508744,-0.4773084417853361,486,537
+7211,"Flat-rolled iron, width < 600mm, not clad",Undifferentiated product,"Construction, Building, and Home Supplies",0.132240066487294,-0.352894204187667,397,450
+7212,"Flat-rolled iron, width < 600mm, clad",Undifferentiated product,"Construction, Building, and Home Supplies",0.4453979856497636,0.1232139800606606,311,243
+7213,Hot rolled bars of iron,Undifferentiated product,Metalworking and Electrical Machinery and Parts,-0.6225455740353594,-0.6233739807894415,568,719
+7214,"Other bars of iron, not further worked than forged",Undifferentiated product,"Construction, Building, and Home Supplies",-1.28427629282942,-0.6697508427700581,729,776
+7215,Other bars and rods of iron or nonalloy steel,Undifferentiated product,"Construction, Building, and Home Supplies",-0.115136720278131,-0.4166853868979587,447,491
+7216,Angles of iron or nonalloy steel,Differentiated product,"Construction, Building, and Home Supplies",-0.3816870592611839,-0.5291902447407635,514,584
+7217,Wire of iron or nonalloy steel,Undifferentiated product,Metalworking and Electrical Machinery and Parts,-0.3978813114023866,-0.3925085636337781,519,470
+7218,Stainless steel in ingots,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0566053503601944,3.5178526821655676,128,8
+7219,Flat-rolled products of stainless steel of a width > 600 mm,Undifferentiated product,Industrial Chemicals and Metals,0.8896209554820567,1.1127681305708854,177,58
+7220,Flat-rolled products of stainless steel of a width < 600 mm,Undifferentiated product,Industrial Chemicals and Metals,1.270932129052487,0.383030799458353,87,173
+7221,"Bars of stainless steel, hot-rolled",Undifferentiated product,Industrial Chemicals and Metals,1.3321181810763687,0.9238197169625136,78,83
+7222,Other bars and rods of stainless steel,Undifferentiated product,Metalworking and Electrical Machinery and Parts,1.4453771670751523,1.146323469081045,56,55
+7223,Wire of stainless steel,Undifferentiated product,Industrial Chemicals and Metals,1.3783179267564425,0.61487978685832,65,131
+7224,Other alloy steel in primary form,Differentiated product,Metalworking and Electrical Machinery and Parts,0.3558729129853718,-0.5560217928273381,335,625
+7225,"Flat-rolled products of other alloy steel, width > 600 mm",Undifferentiated product,Industrial Chemicals and Metals,1.6674763296439543,1.1845008349898851,23,53
+7226,"Flat-rolled products of other alloy steel, width < 600 mm",Undifferentiated product,Industrial Chemicals and Metals,1.3363341957442567,0.8047056898220016,75,98
+7227,Bars of other alloy steel,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.2500531511775637,-0.3820236576552429,358,463
+7228,Other bars and rods of other alloy steel,Undifferentiated product,"Construction, Building, and Home Supplies",0.3036579686391993,-0.39958574646845935,345,478
+7229,Wire of other alloy steel,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.80192020891245,0.44948586946872865,205,157
+7301,Sheet piling of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",0.02424378532543057,-0.3120456627175942,418,429
+7302,Railway construction material of iron or steel,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.7523208066140978,-0.0778493159913856,218,316
+7303,Tubes of cast iron,Differentiated product,"Construction, Building, and Home Supplies",-0.42060900464531253,-0.5254003316071727,523,578
+7304,"Tubes, seamless, of iron or steel",Differentiated product,Metalworking and Electrical Machinery and Parts,0.22237593009046863,-0.5512061099863741,372,618
+7305,"Other tubes and pipes, diameter > 406.4 mm, of iron or steel",Differentiated product,Metalworking and Electrical Machinery and Parts,0.4058813537321529,-0.3924643049266512,320,469
+7306,"Other tubes, pipes and hollow profiles of iron or steel",Differentiated product,"Construction, Building, and Home Supplies",-0.6952849618466489,-0.582271489585076,588,658
+7307,Tube or pipe fittings of iron or steel,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1902486727129962,0.3429288943686889,99,185
+7312,"Wire of iron or steel, not insulated",Differentiated product,"Construction, Building, and Home Supplies",0.2428343721432745,0.08668644958690579,362,251
+7314,Cloth of iron or steel wire,Differentiated product,"Construction, Building, and Home Supplies",-0.04545753100973886,-0.3600616056178915,432,454
+7315,Chain of iron or steel,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1106493377759294,0.5906597171486649,110,134
+7317,Nails and similar articles of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",-0.7214102875397644,-0.5258703355051254,594,580
+7318,Screws and similar articles of iron or steel,Differentiated product,Metalworking and Electrical Machinery and Parts,1.7239544574877754,1.0620058958998786,16,65
+7321,Stoves and similar non-electric appliances of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",-0.03112421225165152,-0.3568764604420783,430,453
+7322,Radiators for central heating of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",0.4483711421027949,0.08540225967775472,309,253
+7323,Household articles of iron or steel,Differentiated product,Textile and Home Goods,-0.7208083845478809,-0.01032595905963317,593,283
+7324,Sanitary ware and parts of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",-0.38244504848748057,0.22776206277681652,516,217
+7325,Other cast articles of iron or steel,Differentiated product,"Construction, Building, and Home Supplies",0.39448790540741824,-0.12606312661060037,323,344
+7326,Other articles of iron or steel,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8132875813578073,0.05774695585275331,201,260
+7402,Unrefined copper,Undifferentiated product,Industrial Chemicals and Metals,-2.020066226419802,-0.6765013116207095,804,783
+7403,Refined copper and copper alloys,Undifferentiated product,Industrial Chemicals and Metals,-1.351599057271741,-0.6747239114913106,743,782
+7404,Copper waste and scrap,Undifferentiated product,Metalworking and Electrical Machinery and Parts,-0.8974778028833341,-0.7051018649555071,636,809
+7407,"Copper bars, rods and profiles",Undifferentiated product,"Construction, Building, and Home Supplies",0.42043011430560906,-0.187824174055687,318,369
+7408,Copper wire,Undifferentiated product,Metalworking and Electrical Machinery and Parts,-0.5371805825461498,-0.3850036175027633,545,467
+7409,"Copper plates, sheets and strip > 0.15 mm",Undifferentiated product,Industrial Chemicals and Metals,0.288101929773502,-0.03211753693296141,348,290
+7410,Copper foil < 0.15 mm thick,Undifferentiated product,Electronic and Electrical Goods,0.7058200219296953,0.4064645569599437,229,167
+7411,Copper tubes and pipes,Undifferentiated product,"Construction, Building, and Home Supplies",0.4949714722352775,0.11176618970418262,287,245
+7412,Copper tube or pipe fittings,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.9955783044510146,1.4749396509456965,136,33
+7413,"Copper wire, uninsulated",Differentiated product,"Construction, Building, and Home Supplies",-0.22262127955373928,-0.27685954136566504,474,403
+7419,Other articles of copper,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6604309312148208,-0.4164942571800403,240,490
+7501,Nickel mattes,Undifferentiated product,Industrial Chemicals and Metals,-1.475989583663269,-0.617201459790507,759,706
+7502,Nickel unwrought,Undifferentiated product,Industrial Chemicals and Metals,-0.4518223718364347,-0.11915395201068164,530,337
+7505,"Nickel bars, wire etc.",Undifferentiated product,Industrial Chemicals and Metals,1.37434584129953,0.6795380928361696,66,120
+7506,Nickel plates,Undifferentiated product,Industrial Chemicals and Metals,1.626716584735448,0.3880479696531926,31,170
+7507,Nickel tubes and pipes,Undifferentiated product,Industrial Chemicals and Metals,1.6344090102463884,1.1219871493219662,29,56
+7508,Other articles of nickel,Differentiated product,Industrial Chemicals and Metals,1.5631517801515369,1.2107856716829302,39,50
+7601,Unwrought aluminum,Undifferentiated product,"Construction, Building, and Home Supplies",-1.1046500447137602,-0.6605775251096024,682,765
+7602,"Waste or scrap, aluminium",Undifferentiated product,Industrial Chemicals and Metals,-0.6535694032437626,-0.7023576496892611,580,806
+7604,Aluminum bars,Undifferentiated product,"Construction, Building, and Home Supplies",0.00147992419914022,-0.45409801997341886,425,510
+7605,Aluminum wire,Undifferentiated product,Metalworking and Electrical Machinery and Parts,-0.5418933348347492,-0.5048960070242231,546,564
+7606,Aluminum plates > 0.2 mm,Undifferentiated product,"Construction, Building, and Home Supplies",0.6386435353302966,-0.315534160108758,247,430
+7607,Aluminum foil < 0.2 mm,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.7919755801736486,0.25376807367629656,207,206
+7608,Aluminum tubes and pipes,Undifferentiated product,"Construction, Building, and Home Supplies",0.32738270263807223,-0.25325033193519897,342,395
+7614,"Aluminum wire, not insulated",Differentiated product,"Construction, Building, and Home Supplies",-0.536867580732176,-0.5234503922716358,544,575
+7615,Household articles of aluminum,Differentiated product,Textile and Home Goods,-0.6500277417623009,-0.36703238377017344,577,456
+7616,Other articles of aluminum,Differentiated product,Metalworking and Electrical Machinery and Parts,0.45156555296934126,-0.1931313333281204,307,373
+7801,Lead refined unwrought,Undifferentiated product,"Construction, Building, and Home Supplies",-1.4884747033581165,-0.7040543760567122,761,807
+7901,Unwrought zinc,Undifferentiated product,Industrial Chemicals and Metals,-0.8831553493674918,-0.6361864134914453,633,737
+7907,Other articles of zinc,Differentiated product,Metalworking and Electrical Machinery and Parts,0.33266292988877255,-0.2707849219142044,339,401
+8001,Unwrought tin,Undifferentiated product,Industrial Chemicals and Metals,-1.1661841158927402,-0.6195193032578319,700,711
+8101,Tungsten (wolfram),Undifferentiated product,Industrial Chemicals and Metals,0.9894219197367132,0.08014165729588132,138,254
+8102,Molybdenum,Undifferentiated product,Industrial Chemicals and Metals,0.5883159583802942,0.738810440361091,262,109
+8104,Magnesium,Undifferentiated product,Metalworking and Electrical Machinery and Parts,0.8836048522476178,1.0464360324452426,178,69
+8105,Cobalt,Undifferentiated product,Industrial Chemicals and Metals,-1.5348772949378775,-0.6207549909354559,768,715
+8108,Titanium,Undifferentiated product,Industrial Chemicals and Metals,0.6741830303349149,0.1488368346089271,238,238
+8111,Manganese,Undifferentiated product,Industrial Chemicals and Metals,-0.6998396767959046,0.7175384116893949,590,111
+8112,Other metals,Undifferentiated product,Industrial Chemicals and Metals,0.22934132144783864,-0.455641921849864,368,512
+8201,Handtools for gardening,Differentiated product,Metalworking and Electrical Machinery and Parts,0.2339955389684947,-0.22339887475899084,366,383
+8202,Handsaws,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5946657699463869,2.2631440571381565,35,15
+8203,"Pliers, pincers and other metal handtools",Differentiated product,Metalworking and Electrical Machinery and Parts,0.545301437211137,0.22213945768456564,277,218
+8204,Wrenches,Differentiated product,Metalworking and Electrical Machinery and Parts,1.080073499399462,1.340341554281293,115,40
+8205,Hand tools n.e.c.,Differentiated product,Metalworking and Electrical Machinery and Parts,1.05940192822595,1.1136729236192695,125,57
+8207,Interchangeable tools for hand tools,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5840915368025552,0.207831566160352,36,222
+8208,Knives and blades for machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5473039677483946,0.6750224928974807,43,121
+8209,"Articles for utensils, of cermet",Differentiated product,Industrial Chemicals and Metals,2.079737231908083,1.4121205309311522,6,37
+8211,Knife sets,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6947114321167825,0.4858146904825989,230,153
+8212,Razors,Differentiated product,"Construction, Building, and Home Supplies",-0.14565188156469314,-0.1232280393606796,455,342
+8215,Cutlery,Differentiated product,Textile and Home Goods,0.05516582902224236,5.711473834850962,411,3
+8301,Padlocks and locks,Differentiated product,Metalworking and Electrical Machinery and Parts,0.73318757829371906,0.3052372970755996,222,192
+8302,"Base metal mountings, fittings and similar articles",Differentiated product,Metalworking and Electrical Machinery and Parts,0.597398440285603,0.06548391789912768,259,258
+8303,Safes,Differentiated product,"Construction, Building, and Home Supplies",0.6517554742280207,-0.03914610427164688,243,292
+8305,"Paper clips and similar office articles, of metal",Differentiated product,Electronic and Electrical Goods,0.02341920785951992,-0.5322002179344673,419,588
+8306,"Ornaments, statuettes, etc. of metal",Differentiated product,Textile and Home Goods,-0.8687290355731673,-0.30785316321258877,629,426
+8307,Flexible tubing of base metal,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8582106198984222,0.500682545507388,187,148
+8308,"Clasps, buckles etc. of metal",Differentiated product,Textile and Home Goods,0.3000158442351131,0.07926412102746024,346,255
+8309,"Stoppers, caps and lids of metal",Differentiated product,"Construction, Building, and Home Supplies",-0.10645143605354115,-0.4459449779114151,444,508
+8311,Wire etc. used for welding,Differentiated product,Metalworking and Electrical Machinery and Parts,0.28150429531613047,-0.3435368469683908,351,442
+8402,Steam boilers,Differentiated product,"Construction, Building, and Home Supplies",-0.14380762780399753,-0.2982046812130162,454,421
+8403,Central heating boilers,Differentiated product,"Construction, Building, and Home Supplies",0.38044533697855504,-0.17210449297208774,327,365
+8404,Auxiliary parts for use with boilers,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0696109984009046,0.30226209778690816,120,193
+8405,Water gas generators,Differentiated product,Metalworking and Electrical Machinery and Parts,0.25008084249255025,-0.6347654444256076,357,734
+8407,Spark-ignition reciprocating internal combustion piston engines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.226862917649474,0.7514273377210866,95,105
+8408,Compression-ignition internal combustion piston engines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.2892148511259105,0.5765526110617514,83,136
+8409,Parts suitable for use with spark-ignition engines,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6771390073876036,0.04255488734803171,236,266
+8410,"Hydraulic turbines, water wheels and regulators",Differentiated product,Metalworking and Electrical Machinery and Parts,0.22739420750451503,-0.12398947515551702,369,343
+8411,Gas turbines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1463791306093123,0.23192532401733215,107,215
+8412,Other engines and motors,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8142563179430522,-0.4642825721371941,200,519
+8413,Pumps for liquids,Differentiated product,Metalworking and Electrical Machinery and Parts,1.2723230951452773,0.6393352241012327,86,125
+8414,"Pumps, compressors, fans, etc.",Differentiated product,Metalworking and Electrical Machinery and Parts,1.530448528207481,0.7679408140666393,46,104
+8415,Air conditioners,Differentiated product,Metalworking and Electrical Machinery and Parts,0.4887819500576525,0.4275247455946449,292,160
+8416,Furnace burners,Differentiated product,Metalworking and Electrical Machinery and Parts,1.3596239760138693,1.328420436987927,69,41
+8417,Industrial furnaces,Differentiated product,"Construction, Building, and Home Supplies",1.0649291771006495,0.8740223402997452,122,91
+8418,"Refrigerators, freezers",Differentiated product,Metalworking and Electrical Machinery and Parts,0.5200518176964684,-0.0838700243721208,283,319
+8419,Equipment for temperature change of materials,Differentiated product,Metalworking and Electrical Machinery and Parts,1.459512936067511,0.2770505476392116,54,200
+8420,"Calendering or other rolling machines, other than for metals or glass",Differentiated product,Metalworking and Electrical Machinery and Parts,2.1688897755628247,2.8237509717312617,4,10
+8421,Centrifuges,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9060109844328816,0.2558403623449928,168,205
+8422,Dish washing machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0420985560120228,0.6168359557970482,132,130
+8423,Weighing machinery,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8413415755978343,0.8800164939169066,191,90
+8424,Sprays and powder dispersers,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9744314021901458,0.1312469974637948,146,242
+8425,Pulleys and winches,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9910237906009468,0.8808516426307523,137,89
+8426,Ships' derricks; cranes,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6119563873226909,-0.29745793480691846,254,420
+8427,Fork-lift trucks,Differentiated product,Metalworking and Electrical Machinery and Parts,1.6695449682477912,0.9820264935046584,22,74
+8428,Other lifting machinery,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1244826880960874,0.31675529232905864,108,190
+8429,"Self-propelled bulldozers, excavators and road rollers",Differentiated product,Metalworking and Electrical Machinery and Parts,0.07794201730195333,-0.46471834004657936,406,521
+8430,"Other moving, excavating or boring machinery",Differentiated product,Metalworking and Electrical Machinery and Parts,-0.2686131114617851,-0.5520696166491355,487,619
+8432,Machinery for soil preparation or cultivation,Differentiated product,Agriculture,0.5379823781551227,-0.2195167666688586,279,379
+8433,Harvesting or agricultural machinery,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8756410315562879,0.06112434425263471,182,259
+8434,Dairy machinery,Differentiated product,Metalworking and Electrical Machinery and Parts,0.4518667775206117,-0.26633855042722815,306,399
+8436,Other agricultural machinery,Differentiated product,"Construction, Building, and Home Supplies",0.8561897572019699,0.250047454097074,188,208
+8437,Machinery for processing grain,Differentiated product,"Construction, Building, and Home Supplies",0.11733907404395552,-0.511149790601899,399,566
+8438,Machinery for the industrial preparation of food or drink,Differentiated product,"Construction, Building, and Home Supplies",0.5481026047176517,-0.00744303476785806,276,281
+8439,Machinery for making paper,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5601506170725203,1.507443555919869,40,31
+8440,Bookbinding machinery,Differentiated product,Metalworking and Electrical Machinery and Parts,1.002964757979424,0.5003351577684715,134,149
+8441,Other machinery for making paper,Differentiated product,Metalworking and Electrical Machinery and Parts,1.184755917749124,1.0769619539144075,101,62
+8442,Machinery for making printing components,Differentiated product,Metalworking and Electrical Machinery and Parts,0.7735796516235792,0.05285995713072964,213,264
+8443,Printers and copiers,Differentiated product,Electronic and Electrical Goods,1.06129180682393,0.4253931283028364,124,162
+8445,Machines for preparing textile fibers,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9365287529347752,0.28971239938801197,159,196
+8446,Looms,Differentiated product,Textile and Home Goods,0.8439813662980652,1.288228735426414,190,44
+8447,Knitting machines,Differentiated product,Textile and Home Goods,1.2072201800199158,2.158670929563408,97,16
+8448,Auxiliary machinery for use with knitting and textile machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0688868256446955,0.6323117846618108,121,127
+8450,Household- or laundry-type washing machines,Differentiated product,"Construction, Building, and Home Supplies",0.378800631231266,0.17426054332354257,328,231
+8451,Machinery for processing fabrics,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8112745916081638,0.42625378370617095,202,161
+8452,Sewing machines,Differentiated product,Textile and Home Goods,0.39862492017093176,0.19265343032899035,322,226
+8454,Machines used in metallurgy,Differentiated product,Metalworking and Electrical Machinery and Parts,1.336051114022602,0.9285248668839062,76,82
+8455,Metal-rolling mills,Differentiated product,Metalworking and Electrical Machinery and Parts,1.2493349961661755,0.6596221986327356,92,123
+8456,Machines for working materials by laser and similar means,Differentiated product,Industrial Chemicals and Metals,1.9692798486087135,3.2950287470949755,9,9
+8457,Machining centers for working metal,Differentiated product,Metalworking and Electrical Machinery and Parts,2.230881682577812,4.131739098714866,2,6
+8458,Lathes for removing metal,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5705575375819685,1.8550232074129944,38,21
+8459,Machine tools for drilling by removing metal,Differentiated product,Metalworking and Electrical Machinery and Parts,0.41849687642226063,-0.4853501645602743,319,543
+8460,Machines with grinding stones for finishing metal,Differentiated product,Metalworking and Electrical Machinery and Parts,1.4040409810644063,0.9366096094188,60,81
+8461,Other machine tools for planing and cutting metals,Differentiated product,Metalworking and Electrical Machinery and Parts,1.6432871037715568,2.282743596882875,28,14
+8462,Machine tools for molding and forging metals,Differentiated product,Metalworking and Electrical Machinery and Parts,1.404010933962074,0.4904981444773616,61,151
+8463,"Other machine tools for working metal, without removal",Differentiated product,Metalworking and Electrical Machinery and Parts,0.8903079043681608,0.2604736574398516,176,204
+8464,Machine tools for working stone,Differentiated product,Metalworking and Electrical Machinery and Parts,1.3349757383828231,1.3137002264371336,77,42
+8465,Machine tools for working wood,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0455869834495726,1.152560230742827,130,54
+8466,Parts and accessories for metal working machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.451004064809571,0.5736096353586324,55,137
+8467,"Tools for hand working, pneumatic, hydraulic motors",Differentiated product,Metalworking and Electrical Machinery and Parts,1.2608013732410397,0.894724401983697,90,88
+8468,Machinery for soldering,Differentiated product,Metalworking and Electrical Machinery and Parts,0.7209244256076834,-0.01564658273004559,226,285
+8470,"Cash registers, calculators, etc.",Differentiated product,Electronic and Electrical Goods,0.4751091655589219,0.46473366259138627,296,155
+8471,Computers,Differentiated product,Electronic and Electrical Goods,1.0544007578510992,0.89940278387141,129,87
+8472,Other office machines,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9694412535520208,0.78797398097861,148,100
+8473,Parts and accessories for office machines,Differentiated product,Electronic and Electrical Goods,1.445274098395219,1.005256373765821,57,72
+8474,Machinery for working minerals,Differentiated product,"Construction, Building, and Home Supplies",-0.2575075890054988,-0.6003252558610073,484,681
+8475,Machines for assembling electric lamps,Differentiated product,Metalworking and Electrical Machinery and Parts,1.6338339523760768,0.6486546669911166,30,124
+8476,Automatic goods-vending machines,Differentiated product,Electronic and Electrical Goods,0.9455700320789028,0.03778778464235893,153,268
+8477,Machinery for working rubber or plastics,Differentiated product,Metalworking and Electrical Machinery and Parts,1.6906565174982138,1.4933833549162971,18,32
+8478,Machinery for preparing tobacco,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.24046016551309063,-0.47331477785602194,479,530
+8479,Machines n.e.c.,Differentiated product,Electronic and Electrical Goods,2.04224072120117,1.5963662558082148,7,26
+8480,Molding boxes for metal foundry,Differentiated product,Metalworking and Electrical Machinery and Parts,1.50899530441654,1.5674945706569037,49,28
+8481,Appliances for thermostatically controlled valves,Differentiated product,Metalworking and Electrical Machinery and Parts,1.2622933985879077,0.46055380639866744,88,156
+8482,Ball or roller bearings,Differentiated product,Metalworking and Electrical Machinery and Parts,1.0915907329685468,0.15393608183479882,113,237
+8483,Transmission shafts,Differentiated product,Metalworking and Electrical Machinery and Parts,1.529322305145625,0.7342185246836509,47,110
+8484,Gaskets and similar joints of metal sheeting,Differentiated product,Metalworking and Electrical Machinery and Parts,1.1637308292153512,0.355553691974541,104,180
+8485,"Machinery parts, not containing electrical features, n.e.c.",Differentiated product,Metalworking and Electrical Machinery and Parts,1.3453678088728556,0.03466533172583198,72,270
+8501,Electric motors and generators,Differentiated product,Metalworking and Electrical Machinery and Parts,0.893773086381204,0.0131674956863113,173,275
+8502,Electric generating sets and rotary converters,Differentiated product,Metalworking and Electrical Machinery and Parts,0.22177777097793633,-0.523085550508471,373,574
+8504,Electrical transformers,Differentiated product,Electronic and Electrical Goods,0.8408947721367218,0.02711831867629454,192,272
+8505,Electromagnets,Differentiated product,Electronic and Electrical Goods,1.4240814901337793,1.0947488930368794,58,60
+8506,Primary cells and primary batteries,Differentiated product,Electronic and Electrical Goods,0.630369051332065,-0.02574640339419861,249,288
+8507,Batteries,Differentiated product,Electronic and Electrical Goods,1.6069084517179,1.2916270356489004,33,43
+8508,Vacuum cleaners,Differentiated product,Electronic and Electrical Goods,1.3044156768424635,1.5418674409761013,81,29
+8509,Electromechanical domestic appliances,Differentiated product,Electronic and Electrical Goods,0.6422415912017706,0.2821670513315702,245,197
+8510,Electric shavers and hair clippers,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8968922667111313,2.022342868246622,172,19
+8511,Electrical ignition equipment,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9371975310728212,0.5538379721360285,158,142
+8512,Electrical lighting equipment used for motor vehicles,Differentiated product,Metalworking and Electrical Machinery and Parts,0.7893885857863902,-0.0258384969538988,208,289
+8513,Portable electric lamps,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.09892595667317444,7.409544797587546,442,2
+8514,Industrial electric furnaces,Differentiated product,Metalworking and Electrical Machinery and Parts,1.2143472740247352,0.6386941153868662,96,126
+8515,Electric soldering machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.650031230131244,0.9549521229862598,27,79
+8516,Electric heaters,Differentiated product,"Construction, Building, and Home Supplies",0.46246748814818706,-0.06682137331496547,301,311
+8517,Telephones,Differentiated product,Electronic and Electrical Goods,0.9583631633686146,0.2292138733616088,149,216
+8518,Microphones,Differentiated product,Electronic and Electrical Goods,0.6185398377532051,0.19583825366195531,251,225
+8519,Sound reproducing apparatus,Differentiated product,Electronic and Electrical Goods,0.7630341912158779,0.42812969016193414,215,159
+8521,Video recording apparatus,Differentiated product,Electronic and Electrical Goods,0.909528118023506,0.24683536103334183,166,212
+8522,Parts and accessories for video or sound equipment,Differentiated product,Electronic and Electrical Goods,1.261638178876802,1.1998553649723662,89,52
+8523,Sound storage media,Differentiated product,Electronic and Electrical Goods,1.538071322854573,0.8335246991559189,45,96
+8524,"Tapes, cassettes, records and compact disks",Differentiated product,Electronic and Electrical Goods,-0.9521741937575294,-0.6390225203269363,643,741
+8525,"Transmission apparatus for radio, telephone and TV",Differentiated product,Electronic and Electrical Goods,0.7545457489137953,0.3453336298241694,217,184
+8526,Radar,Differentiated product,Electronic and Electrical Goods,0.9449896388700108,0.247253346530569,155,211
+8527,Reception apparatus for radio broadcasting,Differentiated product,Electronic and Electrical Goods,0.9799116104871176,1.2530264927803851,141,46
+8528,Monitors and projectors,Differentiated product,Electronic and Electrical Goods,0.18623202478021875,-0.14227028641847328,382,353
+8529,"Parts of radios, telephones, and T.V.s",Differentiated product,Electronic and Electrical Goods,0.530434562238658,0.40146587031441433,280,168
+8530,Electric signal and traffic controls,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9228451130219556,-0.11317559687013194,164,332
+8531,Electric sound or visual signaling apparatus,Differentiated product,Electronic and Electrical Goods,0.7258999920166382,0.05299962094616878,225,263
+8532,Electrical capacitors,Differentiated product,Electronic and Electrical Goods,0.7449602021074694,0.17840386330230512,219,229
+8534,Electronic printed circuits,Differentiated product,Electronic and Electrical Goods,0.8986017967600709,0.7871470365332371,170,101
+8535,Electrical apparatus for > 1k volts,Differentiated product,Metalworking and Electrical Machinery and Parts,0.945427804948196,0.16597359462752467,154,234
+8536,Electrical apparatus for < 1k volts,Differentiated product,Electronic and Electrical Goods,0.8602238001630859,-0.06793223599298023,185,312
+8537,Electrical boards,Differentiated product,Electronic and Electrical Goods,0.629751759662227,-0.0662850878442816,250,310
+8538,Parts for electrical apparatus,Differentiated product,Electronic and Electrical Goods,1.0826061008304364,0.17097093301292285,114,232
+8539,Electrical filament,Differentiated product,Metalworking and Electrical Machinery and Parts,0.8021991722048157,0.19135681931705867,204,227
+8540,"Thermionic, cold cathode or photocathode tubes",Differentiated product,Industrial Chemicals and Metals,1.502247699699711,0.97768465429256,51,76
+8541,Semiconductor devices,Differentiated product,Electronic and Electrical Goods,0.4755592164695157,0.42212771280232375,294,163
+8542,Electronic integrated circuits,Differentiated product,Electronic and Electrical Goods,1.5594039982124763,0.907992033270688,41,85
+8543,Electrical machines with individual functions n.e.c.,Differentiated product,Electronic and Electrical Goods,1.468214993498004,1.0967191425119396,53,59
+8544,Insulated electrical wire,Differentiated product,"Construction, Building, and Home Supplies",-0.4744024336509805,-0.5600525981917318,533,636
+8545,Carbon articles for eletrical purposes,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6450953227635758,0.6987411257818269,244,114
+8546,Electrical insulators of any material,Differentiated product,Metalworking and Electrical Machinery and Parts,0.783743926684403,0.23322122552190488,211,214
+8547,Insulating fittings for electrical machines,Differentiated product,Metalworking and Electrical Machinery and Parts,1.124395039900613,0.5478777099483837,109,144
+8548,Waste and scrap of batteries,Differentiated product,Electronic and Electrical Goods,-0.0982339670231598,-0.29190331353389215,441,415
+8602,Other rail locomotives,Differentiated product,Metalworking and Electrical Machinery and Parts,0.0520338891540399,-0.22225897111019216,412,382
+8609,Containers for multimodal transportation,Differentiated product,"Construction, Building, and Home Supplies",-0.932176771647208,-0.288570663774147,642,413
+8701,Tractors,Differentiated product,Metalworking and Electrical Machinery and Parts,0.85121560788348,0.19116232553812457,189,228
+8702,Buses,Differentiated product,"Construction, Building, and Home Supplies",-0.11557626316214256,-0.3496120696590448,448,445
+8703,Cars,Differentiated product,Metalworking and Electrical Machinery and Parts,0.828070752735345,-0.06098488633597535,194,306
+8704,Motor vehicles for transporting goods,Differentiated product,Metalworking and Electrical Machinery and Parts,0.2380703401557451,-0.2829782049607728,363,407
+8705,Special purpose motor vehicles,Differentiated product,"Construction, Building, and Home Supplies",-0.06626837854517931,-0.46578151213112934,435,523
+8708,Parts of motor vehicles,Differentiated product,Metalworking and Electrical Machinery and Parts,0.9334951684977876,0.03601776626224246,161,269
+8709,Work trucks,Differentiated product,Metalworking and Electrical Machinery and Parts,0.868575156377962,0.07016760315528794,184,257
+8710,Tanks and other armored fighting vehicles,Differentiated product,Industrial Chemicals and Metals,-0.22185359080167744,-0.610907595398921,473,698
+8711,Motorcycles,Differentiated product,Metalworking and Electrical Machinery and Parts,0.30751109793231635,0.04602955638121038,344,265
+8712,Bicycles,Differentiated product,Textile and Home Goods,0.10437521553772906,-0.04298116865075847,400,295
+8713,Wheelchairs,Differentiated product,Metalworking and Electrical Machinery and Parts,0.550889905236335,0.8451003609973021,271,95
+8714,Parts of motorcycles or wheelchairs,Differentiated product,Electronic and Electrical Goods,0.4279821283026254,0.3123801721445383,317,191
+8715,Baby carriages,Differentiated product,Metalworking and Electrical Machinery and Parts,0.45336235914785705,0.24848837797865875,304,209
+8716,Trailers and semi-trailers,Differentiated product,"Construction, Building, and Home Supplies",0.4889724121030205,-0.13566181128075022,291,349
+8802,Other aircraft and spacecraft,Differentiated product,Industrial Chemicals and Metals,0.46786961990142234,-0.05748283771346272,299,303
+8805,Aircraft launching gear,Differentiated product,Industrial Chemicals and Metals,0.6525519640666622,0.0917492691135843,242,249
+8901,Cargo ships and similar vessels,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.3264806352155043,-0.657355892847783,501,762
+8902,Fishing vessels,Differentiated product,"Construction, Building, and Home Supplies",-1.1009173869024604,-0.6452482143040635,681,750
+8903,Pleasure or sport boats,Differentiated product,"Construction, Building, and Home Supplies",0.4341669571578477,-0.14818996480498758,313,357
+8904,Tugs and pusher craft,Differentiated product,Textile and Home Goods,-1.031136808272757,-0.6875529299162326,666,796
+8905,"Special function vessels, n.e.c.",Differentiated product,Industrial Chemicals and Metals,-1.1638621553850268,-0.6904274580537695,698,798
+8906,Other vessels,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.2512647431965418,-0.6409494096819056,481,743
+8907,Other floating structures,Differentiated product,Metalworking and Electrical Machinery and Parts,-0.16098599732427463,-0.5597307250286343,461,635
+9001,Optical fibers,Differentiated product,Electronic and Electrical Goods,0.9319893709345908,-0.13101544311076457,162,345
+9002,Lenses and other optical elements,Differentiated product,Electronic and Electrical Goods,1.3396312262196173,0.9814494745466172,74,75
+9003,"Frames for spectacles, goggles",Differentiated product,Electronic and Electrical Goods,0.3723178511406646,0.33216329905016073,329,186
+9004,Glasses,Differentiated product,Electronic and Electrical Goods,0.4868862828919074,0.8482257721170902,293,94
+9005,Binoculars and telescopes,Differentiated product,Metalworking and Electrical Machinery and Parts,0.5702658591966093,-0.09674065359371252,265,322
+9006,Photographic cameras,Differentiated product,Electronic and Electrical Goods,0.6778873347807326,0.2926327072682625,235,195
+9010,"Apparatus and equipment for photographic laboratories, n.e.c.",Differentiated product,Industrial Chemicals and Metals,2.1182213604375626,2.8137892429812403,5,11
+9011,Optical microscopes,Differentiated product,Electronic and Electrical Goods,1.3965857366014638,0.4167453859409797,63,165
+9012,"Microscopes, other than optical",Differentiated product,Industrial Chemicals and Metals,2.183456089492552,4.556765008325152,3,5
+9013,Liquid crystal devices,Differentiated product,Electronic and Electrical Goods,1.2974690439784693,0.3301852387510112,82,187
+9014,Navigational instruments,Differentiated product,Electronic and Electrical Goods,0.952139061526803,-0.00655270812199508,150,280
+9015,Surveying instruments,Differentiated product,Metalworking and Electrical Machinery and Parts,0.08703641876222122,-0.5718198406402257,403,641
+9017,Drafting tables and machines,Differentiated product,Industrial Chemicals and Metals,1.5802046528163298,0.672259921957693,37,122
+9018,Medical instruments,Differentiated product,Electronic and Electrical Goods,0.7844405539279367,0.13214307980360027,209,241
+9019,Therapy applicances,Differentiated product,Electronic and Electrical Goods,0.8202610966039642,-0.04489937842129021,196,297
+9020,Other breathing appliances and gas masks,Differentiated product,Metalworking and Electrical Machinery and Parts,0.6086524656900857,-0.3731050877764669,256,460
+9021,Orthopedic appliances,Differentiated product,Electronic and Electrical Goods,1.3435046794369263,0.3571192088756195,73,179
+9022,X-ray machines,Differentiated product,Electronic and Electrical Goods,1.7725417111566777,1.5344252914534584,13,30
+9023,Instruments designed for demonstrational purposes,Differentiated product,Metalworking and Electrical Machinery and Parts,0.7935244123150668,-0.1344628125766197,206,348
+9024,Machines for testing the mechanical properties of materials,Differentiated product,Metalworking and Electrical Machinery and Parts,1.5462004680307686,0.9771070028492344,44,77
+9025,"Thermometers, hydrometers etc.",Differentiated product,Electronic and Electrical Goods,0.8162656091200627,-0.06033304462177882,199,305
+9026,Instruments for measuring properties of liquids or gases,Differentiated product,Electronic and Electrical Goods,1.355081665385257,0.34597434890092416,70,182
+9027,Instruments for physical or chemical analysis,Differentiated product,Electronic and Electrical Goods,1.971389037211384,0.7472811274804637,8,107
+9028,"Gas, liquid or electricity meters",Differentiated product,"Construction, Building, and Home Supplies",0.4681164110497677,0.07381479181945749,298,256
+9029,Meters,Differentiated product,Electronic and Electrical Goods,1.1758670755695584,0.5554267950943136,103,141
+9030,Instruments for measuring electricity,Differentiated product,Electronic and Electrical Goods,1.6549065789434634,1.0026853228044823,25,73
+9031,Measuring instruments,Differentiated product,Electronic and Electrical Goods,1.6565243772521925,0.6851845655243041,24,118
+9033,Other parts for machines and appliances,Differentiated product,Electronic and Electrical Goods,0.9719707693740796,-0.05483491856098611,147,301
+9101,Watches with precious metal,Differentiated product,Electronic and Electrical Goods,1.0007450094820631,0.3698831926660203,135,178
+9102,Watches,Differentiated product,Electronic and Electrical Goods,0.9375043201423052,0.3189029045365206,157,189
+9105,Other clocks,Differentiated product,Metalworking and Electrical Machinery and Parts,0.5505699613963103,-0.47241860083644305,272,529
+9108,"Watch movements, complete",Differentiated product,Electronic and Electrical Goods,1.653269582628391,1.8855756304413571,26,20
+9111,Watch cases and parts,Differentiated product,Electronic and Electrical Goods,0.6856036006436106,1.0295798179156708,232,70
+9114,Other clock or watch parts,Differentiated product,Electronic and Electrical Goods,1.093787218113117,0.6948892732735669,112,115
+9207,"Musical instruments, electric",Differentiated product,Electronic and Electrical Goods,0.8808995842133839,1.3985328594625237,179,39
+9303,Other firearms,Differentiated product,Metalworking and Electrical Machinery and Parts,0.728479477368857,0.28007016239590815,224,198
+9305,Parts of military weapons,Differentiated product,Metalworking and Electrical Machinery and Parts,0.617788272576748,-0.01574577046697673,252,286
+9306,Munitions of war,Differentiated product,Metalworking and Electrical Machinery and Parts,0.1577593055802039,-0.4770727939688608,390,535
+9401,Seats,Differentiated product,"Construction, Building, and Home Supplies",-0.01323925081787213,-0.2212928645803935,428,381
+9402,"Medical, dental or veterinary furniture",Differentiated product,Metalworking and Electrical Machinery and Parts,0.7201701023375027,-0.08018597181764359,227,317
+9403,Other furniture and parts,Differentiated product,"Construction, Building, and Home Supplies",0.08284829613050189,-0.25413729863891205,405,397
+9404,Mattresses and bedding,Differentiated product,Textile Apparel and Accessories,-0.7836540527654244,-0.5330098617773514,612,590
+9405,Lamps,Differentiated product,"Construction, Building, and Home Supplies",0.5504356565691947,1.7890257412847743,273,23
+9406,Prefabricated buildings,Differentiated product,"Construction, Building, and Home Supplies",0.07758391564701814,-0.5493129147370123,407,614
+9503,Toys,Differentiated product,Electronic and Electrical Goods,0.06282545781526085,0.936769552711656,408,80
+9504,Games,Differentiated product,Electronic and Electrical Goods,0.9512425791669942,1.0751826439633356,151,63
+9505,Christmas and other festivity articles,Differentiated product,Textile Apparel and Accessories,-1.142802853042867,1.0734926668556108,694,64
+9506,Sports equipment,Differentiated product,Electronic and Electrical Goods,0.3335789351240748,0.27074645738058684,338,202
+9507,Fishing and hunting equipment,Differentiated product,Agriculture,-0.45385451909177954,-0.43071331397272256,531,500
+9603,Brooms and mops,Differentiated product,Textile and Home Goods,0.14311506933318535,-0.03973441621948249,395,293
+9606,Buttons,Differentiated product,Textile and Home Goods,-0.20114311822146705,-0.17965055179311912,470,368
+9607,Slide fasteners,Differentiated product,Textile and Home Goods,-0.15810856889080618,-0.2946234965569719,460,418
+9608,Pens,Differentiated product,Textile and Home Goods,0.49135971235055576,0.3712980183847937,290,177
+9609,"Pencils, crayons, pastels, etc.",Differentiated product,Textile and Home Goods,-0.1709437062044337,-0.09741517688842272,466,323
+9612,Typewriter ribbons and ink pads,Differentiated product,Electronic and Electrical Goods,0.756176173810692,0.03899540566369828,216,267
+9613,Cigarette lighters,Differentiated product,Electronic and Electrical Goods,0.16123863570953534,0.7498504819645644,389,106
+9701,Paintings and drawings,Differentiated product,Industrial Chemicals and Metals,0.03756645505784097,-0.2936922079985814,416,416
+9703,Sculptures,Differentiated product,Industrial Chemicals and Metals,-0.13108578277437666,-0.4642951761132354,451,520
+9706,Antiques >100 years,Differentiated product,Textile and Home Goods,-0.33211606935124943,-0.4667556701516317,503,524
