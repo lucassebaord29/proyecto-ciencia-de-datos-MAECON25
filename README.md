@@ -69,15 +69,16 @@ install.packages(c(
 
 ## ▶️ Ejecución sugerida
 
-1. `Procesamiento de base de datos raw.R`  
-2. `Paletas de color...`  
-3. `Espacio-Producto.R` o `Columna vertebral de la red...`  
-4. Visualizaciones:  
+1. `Procesamiento de base de datos raw.R
+2. `Columna vertebral de la red...` 
+3. `Paletas de color...`  
+3. `Espacio-Producto.R`  
+4. Visualizaciones:
+   - `Heatmaps.R` 
    - `Mapa de complejidad de países.R`  
    - `Espacio-Producto por país...`  
-   - `Heatmaps.R`  
    - `Dispersión...` y `Distribución de kernel...`  
-5. Análisis estructural:  
+6. Análisis estructural:  
    - `Métricas de la red.R`  
    - `Bosques diferenciados.R`  
    - `Simulación de saltos...`  
