@@ -85,8 +85,3 @@ install.packages(c(
 
 ---
 
-## 📌 Notas
-
-- Este proyecto se basa en la literatura del **Espacio-Producto** (Hidalgo & Hausmann, 2009).
-- Se utiliza la clasificación de productos diferenciados de **Rauch (1999)** y la clasificación de clústeres de **Hausmann et al. (2011)**.
-- La **matriz binaria RCA** (Revealed Comparative Advantage) es el insumo central para construir la red de productos.
