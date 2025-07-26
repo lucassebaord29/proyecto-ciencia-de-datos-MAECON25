@@ -1,4 +1,7 @@
-# Proyecto: Análisis de Complejidad Económica y Espacio-Producto
+# Proyecto. Si quieres cambio verdadero pues salta distinto: mapeando saltos y bosques diferenciados en el Espacio-
+Producto de Argentina
+## Autores. Lucas S. Ordoñez, Eva Landecky y Franco Ímpavido 
+
 
 Este repositorio contiene un conjunto de scripts en R destinados a explorar la estructura productiva y la complejidad económica de los países mediante el análisis del Espacio-Producto, métricas de red y simulaciones de trayectorias de diversificación. Se utilizan datos de exportaciones, clasificaciones de productos y técnicas de redes complejas para visualizar patrones, identificar trayectorias de desarrollo potencial y evaluar estrategias de salto en el espacio de productos.
 
