@@ -1,4 +1,4 @@
-# Proyecto: *Si quieres cambio verdadero, pues salta distinto: Mapeando saltos y bosques diferenciados en el Espacio-Producto de Argentina  *  
+# Proyecto: Si quieres cambio verdadero, pues salta distinto: Mapeando saltos y bosques diferenciados en el Espacio-Producto de Argentina  
 
 **Autores**: Lucas S. Ordoñez, Eva Landecky y Franco Ímpavido  
 
