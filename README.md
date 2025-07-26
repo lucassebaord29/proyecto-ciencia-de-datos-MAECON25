@@ -26,27 +26,41 @@ Este repositorio contiene un conjunto de scripts en R destinados a explorar la e
 | `Tablas descriptivas de productos por salto.R` | Genera tablas de productos seleccionados en los saltos simulados, incluyendo su complejidad, diferenciación y otras características descriptivas. |
 
 ---
-
 ## 🧰 Requisitos
 
-- R >= 4.0.0
-- Paquetes sugeridos:
-  - `tidyverse`
-  - `igraph`
-  - `ggraph`
-  - `pheatmap`
-  - `RColorBrewer`
-  - `readr`, `dplyr`, `tidyr`
-  - `ggplot2`, `ggthemes`
-  - `sp`, `sf`, `rnaturalearth`, `rnaturalearthdata`
+- **Versión mínima de R**: 4.0.0
+- **Paquetes sugeridos**:
 
-Instalación:
+  - Manipulación y visualización de datos:
+    - `tidyverse`
+    - `readr`, `dplyr`, `tidyr`
+    - `ggplot2`, `ggthemes`
+  - Análisis de redes:
+    - `igraph`, `ggraph`
+    - `RColorBrewer`, `viridis`, `patchwork`, `gridExtra`
+  - Visualización de datos:
+    - `pheatmap`
+  - Análisis de complejidad económica:
+    - `economiccomplexity`
+  - Datos espaciales y mapas:
+    - `sp`, `sf`, `rnaturalearth`, `rnaturalearthdata`
+  - Otros:
+    - `readxl`, `beepr`, `rlang`
+
+---
+
+### 🔧 Instalación
+
+Para instalar todos los paquetes necesarios, ejecutá el siguiente código en tu consola de R:
 
 ```r
-install.packages(c("tidyverse", "igraph", "ggraph", "pheatmap", "RColorBrewer", 
-                   "readr", "dplyr", "tidyr", "ggplot2", "ggthemes", 
-                   "sp", "sf", "rnaturalearth", "rnaturalearthdata"))
-```
+install.packages(c(
+  "tidyverse", "igraph", "ggraph", "pheatmap", "RColorBrewer", 
+  "readr", "dplyr", "tidyr", "ggplot2", "ggthemes", 
+  "sp", "sf", "rnaturalearth", "rnaturalearthdata",
+  "economiccomplexity", "readxl", "beepr", "gridExtra", 
+  "viridis", "patchwork", "rlang"
+))
 
 ---
 
