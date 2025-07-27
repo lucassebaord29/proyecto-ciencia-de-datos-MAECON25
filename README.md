@@ -6,7 +6,8 @@
 
 **Docentes**: Viktoriya Semeshenko, Sergio A. De Raco
 
-Este repositorio contiene un conjunto de scripts desarrollados en R cuyo propósito es analizar la estructura productiva y la complejidad económica de los países a través del método de Espacio-Producto. La metodología combina datos de exportaciones, clasificaciones de productos y herramientas de análisis de redes complejas para representar visualmente la estructura productiva, identificar trayectorias de diversificación potencial y evaluar estrategias alternativas de inserción exportadora. El enfoque incluye la construcción de métricas topológicas, simulaciones de salto y visualizaciones que permiten estudiar cómo las economías pueden transitar hacia sectores más sofisticados aprovechando sus capacidades existentes.
+Este repositorio contiene un conjunto de scripts desarrollados en R cuyo propósito es analizar la estructura productiva y la complejidad económica de los países a través del método de Espacio-Producto. La metodología combina datos de exportaciones, clasificaciones de productos y herramientas de análisis de redes complejas para representar visualmente la estructura productiva, identificar trayectorias de diversificación potencial y evaluar estrategias alternativas de inserción exportadora. El enfoque incluye la construcción de métricas topológicas, simulaciones de salto y visualizaciones que permiten estudiar cómo las economías pueden transitar hacia sectores más sofisticados aprovechando sus capacidades existentes.Las bases de datos pueden encontrarse en el siguiente [link](https://www.dropbox.com/scl/fo/gh2ne2ge8w0vhfl5i1hgy/AJ97RefG1nomgyDq8bBv2Aw?rlkey=ljylgfnw1ufzsnnxoswq9ih90&st=fm91olqr&dl=0).
+
 
 ---
 
